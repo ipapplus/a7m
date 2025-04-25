@@ -3848,6 +3848,249 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.arres
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.arres/depiction.json
 
+Package: com.kingpuffdaddi.audiomix
+Architecture: iphoneos-arm64e
+Version: 0.0.10
+Section: Tweaks
+Maintainer: KingPuffdaddi
+Installed-Size: 15488
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/arm64e/AudioMix.0.0.10.arm64e.deb
+Size: 35208
+MD5sum: 65e924db113c1f864794f8dcf10d3361
+SHA1: 6d649624ba77ec8a889d2a3ac78125277c217e40
+SHA256: 0282c9a1f9fb311fbf483f1ec1a1b170ac7149e804b78d65746d249952e8e09a
+SHA512: 5b17ac916486a7707a87a9055a3d3903060de8fdf0167c315c76f628310485d3b9690768887a893653f6902fae76ce1cc2856ffdf2cd0c3d6830b333b3ae744d
+Description: Tweak to play two or more audio sources simultaneously. Doesn't work well with all apps! Sometimes the first audio still gets paused, so you will have to start it again.
+Name: AudioMix
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.audiomix
+
+Package: sa.ipapplus.autorepomanager
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: scripts
+Maintainer: ipapplus
+Depends: apt-utils
+Filename: ./debs/arm64e/AutoRepoManager.1.1.arm64e.deb
+Size: 3244
+MD5sum: 03737bcb77e227d0fba5f551636fc5b1
+SHA1: 5255780d6a19d8fd171dde70cb0fd1f0e29e2b6f
+SHA256: e1bbdcfaba090e7b1d5a689ca3963ebd386e0704d3b30f2e465d1b2a14bbfbaa
+SHA512: 4bd9d2909deac67ada1631ba6067e6a2a32b03cb502889d3eeb76d9255a4fa5b977f25729de1113bd450085a352c5b1c5249066516835bf5f6dc1e079dbdae7d
+Description: is a collection of scripts for easily managing repositories through Filza It simplifies tasks like adding updating and organizing repos efficiently , Created by Ahmed AlGhrbi @ipapplus
+Name: AutoRepoManager
+Icon: https://i.imgur.com/ZKCJQvf.jpeg
+Author: ipapplus
+
+Package: com.bandarhl.bhinsta
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 648
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/BHInsta.1.0.3.arm64e.deb
+Size: 160708
+MD5sum: 6bb22714e38e6cdefab99ba369a6a20d
+SHA1: a12b05f40b2e8f4234261f52bd47dbfbbe404045
+SHA256: 9861eb070304666e16bc9c4478b64831699da5449f00391028d36d0722acdbcb
+SHA512: 9cea0774df1d3ffc103639e804c9740255698dc60e4981d908ed30cd685409cc78ea0faebdcd34e6af325bd7dbfec9f4d35072e62a85977b2f95e5e7d23b3e14
+Description: An awesome tweak for Instagram!
+Name: BHInsta
+Icon: https://i.imgur.com/lg6zKtD.jpeg
+Author: Bandar Alruwaili
+
+Package: com.raulsaeed.bhtiktok++
+Architecture: iphoneos-arm64e
+Version: 1.8-119
+Section: Tweaks
+Maintainer: raul saeed
+Installed-Size: 792
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/BHTikTok++.1.8-119.arm64e.deb
+Size: 137960
+MD5sum: d119e93e6ecbbcaec757a4eee51947d6
+SHA1: 5341dcc192f010e328f4fa3ad37ef5efb3e3a150
+SHA256: c6c17e29c38cd4ae72d062cf5967a899c986481861cafa9ab47d29859078eb00
+SHA512: 678e4e3969124afc02a794e455ddd0f762ec64ff172e7aed62a66541152649fe9b7ba6ae40597e21758bd39af51d11e113f3f09e494cf573b42b8fd0b8244869
+Description: An awesome tweak for TikTok!
+Name: BHTikTok++
+Author: raul saeed
+
+Package: com.bandarhl.bhtiktok
+Architecture: iphoneos-arm64e
+Version: 2.3.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 1480
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/BHTikTok.Plus.2.3.1.arm64e.deb
+Size: 498596
+MD5sum: 6b00a7ccdb953ff116f2d9f170cfe8e0
+SHA1: 36ef354fbb0e6783d0ccdf98a4666486d3754bdb
+SHA256: c1786003800b68e6a22fcfa6ade0f92e2d8c7df6124956e4bec170af6c06ad27
+SHA512: 6e4974aadcd2527181895636c3fb8b032c4d857d495c92cd15ee17e6727461ff6c5de745946bdaee23a6a544748b69febb39f3d4cfce3408652c3939a2270cd3
+Description: An awesome tweak for TikTok!
+Name: BHTikTok Plus
+Author: dvntm
+Icon: https://i.imgur.com/PKIhkrt.png
+
+Package: com.bandarhl.bhtiktok
+Architecture: iphoneos-arm64e
+Version: 2.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 1480
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/BHTikTok.Plus.2.3.arm64e.deb
+Size: 485036
+MD5sum: 42e3a9208a8926ba26163c830c8a411a
+SHA1: 4d8e811c21ae789cba29e9ac615693b0f324b215
+SHA256: 9b10177775c6d75cfd21af922ceb16e9af1d91879266b2dcf1ad15ddfa601147
+SHA512: f3d5ea85daa2c61a202e085327118c07703371686584df52d33d7824e37eafcd2a0c210c09c20680f29007a31e989d865069f24316ef586f151535f159198bb7
+Description: An awesome tweak for TikTok!
+Name: BHTikTok Plus
+Author: dvntm
+Icon: https://i.imgur.com/PKIhkrt.png
+
+Package: com.bandarhl.BHTwitter
+Architecture: iphoneos-arm64e
+Version: 4.0
+Priority: optional
+Section: Tweaks
+Maintainer: BandarHelal
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, ws.hbang.common (>= 1.17)
+Filename: ./debs/arm64e/BHTwitter.4.0.arm64e.deb
+Size: 768300
+MD5sum: 47eac9fcebdf0e10ae027c180a168941
+SHA1: 1f7c05faf2c143544febc4ab8ea49d3be289ec5a
+SHA256: a0936965c24df8669b4731c7bafcf55708282433a68ecbc85b006e779aef8e23
+SHA512: 6b60a3cc059120d93173346343505ab1998e5c7d0398347fa324014e64b9a2ee5cf47c1133ad8615a1062e00e6a087b842c5a2c3cea6cac1d7e4b9192a227321
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: BandarHelal
+
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64e
+Version: 4.3-1+debug
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 23824
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/arm64e/BHTwitter.4.3-1+debug.arm64e.deb
+Size: 15095940
+MD5sum: 07d7296c4adefc4ac3d3c11fd19fb3e5
+SHA1: e890196a1479e22e7916607f9076881e2b441e86
+SHA256: 1032efdc08b96f4724134ecddb9c3c28b8c43c9991eb4a5af92305b2b3576ae3
+SHA512: 4ec1057d2b9b479d62ca624ce2d6dc701c42f87ad5c207ab075a374a37195eaf7987126435037a76b0d7785ac6048d8f3da53158b0d4958ea5fc599c851cfd71
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
+
+Package: com.0xkuj.backgrounderaction15autostate
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 384
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: jp.akusio.backgrounderaction15, com.opa334.altlist
+Filename: ./debs/arm64e/BackgrounderAction15AutoState.1.0.3.arm64e.deb
+Size: 25044
+MD5sum: bdc90289c241ed49cf515d44460e524d
+SHA1: 9522bdf459dc3d11fda44c32d84c7fc4dfbb5a77
+SHA256: 7fd4b977cdfd15ce1848c73d71a485d3dd5cb9657ce2d34d65af7ab7e2c61248
+SHA512: 05658121f4190428bbdb7443e5c5f4dbc468139a5cb324177ba322910c516d1ce015c76d4a296adacada85fb127eaef2af63467fe006192c5ae315108c31d1b9
+Description: Save Action state for BackgrounderAction15 CC Toggle
+Name: BackgrounderAction15AutoState
+Author: 0xkuj
+
+Package: com.newwares.badgesync
+Architecture: iphoneos-arm64e
+Version: 1.2.2
+Section: Tweaks
+Maintainer: newwares
+Installed-Size: 384
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), ws.hbang.common, preferenceloader, com.opa334.altlist
+Filename: ./debs/arm64e/BadgeSync.1.2.2.arm64e.deb
+Size: 37312
+MD5sum: a94988de0dc746d3b7672b255b094c34
+SHA1: 2c3191664d2f1fcf5791bce0a93445225f7dd2c3
+SHA256: e3f70116553a9b3df141cb38f9367e9446948ee5af0be818668af80ccf3c8c2b
+SHA512: a3c3b1d8a13810cb61f34996be2190ec43f7ca2771a58a58aa8375dacef322d99e7d89691b36b36a35fc87bf2e363cebf3aa2c036fc167df2740b5b78bdea55d
+Description: Syncs icon badge values when notifications are dismissed from the notification centre.
+Name: BadgeSync
+Author: newwares
+
+Package: com.cpdigitaldarkroom.barmoji
+Architecture: iphoneos-arm64e
+Version: 2023.3
+Section: Tweaks
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 444
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/arm64e/Barmoji.2023.3.arm64e.deb
+Size: 48604
+MD5sum: 6dc7550437d85bb77a2a02d618eb3f96
+SHA1: 67533490c50af2f7f95c66eeb71629492f4d5f8d
+SHA256: 141b430ad3091851712e0e0d8a2ea1d10ac718859ebfeac3a9d5214d93e4a0b8
+SHA512: fdaa7037c282b70ba4eb27bdae1202a8c01efb23ad2346c39f1ee6c330632bce99c094899025fca23c948bc304a63682737667ed4b06835ef262455a3858216b
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Description: Quick Emoji Access Bar
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios13.3
+Name: Barmoji
+Depiction: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+
+Package: com.ps.batteryhealthenabler
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.3)
+Filename: ./debs/arm64e/Battery.Health.Enabler.1.0.0.arm64e.deb
+Size: 5456
+MD5sum: 56ea2b78b8904ff4c80bf61f74581228
+SHA1: f12aa7d6e0839aec1042ef2a34b45ab8a529a7e6
+SHA256: fd3bbd7d9d31cfae19482a8d590faffa052ffe63c6c29b8a6688bcc048b732e5
+SHA512: d14d968cfec46a3c8fcd5d8019614999045b66926d46a1d9003406b5f39fa232f2635c938e7b6bfff33f492a431d456f9f11b2ced88b60aee5819858990b8673
+Description: Enable Battery Health on unsupported devices.
+Name: Battery Health Enabler
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/batteryhealthenabler.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/batteryhealthenabler.json
+
+Package: com.level3tjg.betterccbrightness
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: level3tjg
+Installed-Size: 304
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/arm64e/BetterCCBrightness.1.0.2.arm64e.deb
+Size: 42540
+MD5sum: ec1bb6b6bfdc01200f1c6ab51ae14701
+SHA1: 4de70ff8417063834cf62354d7486269584d9145
+SHA256: 50a35ff9658f30d83e6ff32550dcab99e8cf8501e019d744507e9600f66fc4f6
+SHA512: 476cd483b936d0550b364360e2a01d6509fdbc9d2db320a2e54d85a8c1b79f0833aac33666e6259376f731cf652a85184336ca87c021f65cc2525ad42554c4ee
+Description: Add more controls to the expanded brightness CC module
+Name: BetterCCBrightness
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.betterccbrightness
+Author: level3tjg
+
 Package: dev.mineek.appstoretroller
 Architecture: iphoneos-arm64e
 Version: 0.1.1
