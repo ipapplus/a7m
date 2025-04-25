@@ -7641,6 +7641,27 @@ Icon: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_logo.png
 Header: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_header.png
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal.json
 
+Package: com.den.twigalaxy
+Architecture: iphoneos-arm64e
+Version: 1.4-5+debug
+Section: Tweaks
+Maintainer: DeNsor
+Installed-Size: 596
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64e/TWIGalaxy.1.4-5+debug.arm64e.deb
+Size: 81624
+MD5sum: 05c59b3315d8b12f1817796b63c022b1
+SHA1: 68733275a3c049b44f1383ce625e256da021e3dd
+SHA256: fbdba55b6061010fa8d7ea04c4e3d68b315cd6ce9d60410ed076b19fd6c92540
+SHA512: 2bc81b610a19b78b5e617faa461de73db9b4429adcc8bcafe30d6d3bf5aadd6df574fffd0425722990596bfb14f09d98c2c7710f2bc2d0b6d4d1bb55d9b7b5b8
+Description: Make Twitter Better!
+Name: TWIGalaxy
+Author: DeNsor
+Icon: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_logo.png
+Header: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_header.png
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal.json
+
 Package: com.xyaman.tako
 Architecture: iphoneos-arm64e
 Version: 3.5.2.1
