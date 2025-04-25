@@ -4946,6 +4946,115 @@ Description: This theme was Inevitable. You installing it is bound to happen. ;â
 Name: Inevitable
 Author: Ray Delvalle <raydelvalle@me.com>
 
+Package: com.dvntm.ovk
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 28048
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64e/OrwellVK.1.1.arm64e.deb
+Size: 10124188
+MD5sum: 2259ae53a4ca0bc5f84a8769f74d9dab
+SHA1: 53d29758beebb1450e6052236b47326a8cfacf54
+SHA256: 2da739f6fb09103778f1fa4edd1f88ad741f54ed281b8c11807e11a6ce2c3b05
+SHA512: 739b8df98edf9c28b93dc67d10a526998d4719088e94df787e7b6c0c87f62dbe63315eb1cd3d2d656634f0e59d042b6ea7958e7c3486a71dbf05aa6bf254476d
+Description: A subtle shift from the familiar
+Name: OrwellVK
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/OrwellVK/main/Sileo/depiction.json
+
+Package: com.thenatis.vivacity
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Themes
+Maintainer: Thenatis
+Filename: ./debs/arm64e/Vivacity.2.0.arm64e.deb
+Size: 5141444
+MD5sum: a8ad36ac2de048f50d0691ccb3bd4e2c
+SHA1: 9f2761e19028a5cadb8b1e129dfa11185c661ed4
+SHA256: dd1c36683e0a61c2cfb2dbfbe0eedfc20693d933be8536274aa7badb99afc47f
+SHA512: 398a20330c4e4404fea3c6fe3ed4266e1042d59d602b33af8c75d67154bb91f9713824b30158abefbb9170cc8e89f7761ae00e2c8bda379bb7eae53dd65904f1
+Description: A Vibrant Theme to Light up Your Device!
+Name: Vivacity
+Author: Thenatis
+
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64e
+Version: 2.5.10
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0)
+Filename: ./debs/arm64e/WatusiTools.2.5.10.arm64e.deb
+Size: 4610696
+MD5sum: 73e3ca044cfdab83b76b32b827716b98
+SHA1: fa30c0f1f0c11e9f9cc070693dc8d9d6a4d89bd6
+SHA256: 2d9c8654c46a8954314fa5e0de844ce1d46a394fdc909fd7b8a8bc08869b1593
+SHA512: 9506648a775bbdad7f9ec82ad5dd7742db6a892f04b89c5f77b6e7e7acbe2460b5339354160427b17229f2cb1cd509db7e763a21acc712cdf03d88811b33ce22
+Description: Library for Watusi, Regram and other tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64e
+Version: 2.5.18
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0)
+Filename: ./debs/arm64e/WatusiTools.2.5.18.arm64e.deb
+Size: 4811972
+MD5sum: b7a480a1bedba0980f1ffbdca7e3ba89
+SHA1: cb9308b40b290774000a6f92f21dbb9b80ad27f4
+SHA256: 2489763d5e8810a840fac1a77a6fa14e3af9248c539ffae127592a251b6b92ae
+SHA512: 5b81367b09056c916cf7ebe1d48d1e9ed4c77bfb8727a34c1318500e8ae6b96fee642eb2df809c0a3e4352741b5781c9ee434787939e68c7f5f19f606e02b9b5
+Description: Library for Watusi, Regram and other tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Icon: https://i.imgur.com/l9dqM3v.jpeg
+
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm64e
+Version: 5.2b1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16252
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/YTLite.5.2b1.arm64e.deb
+Size: 6044336
+MD5sum: a1d293b457656daa9ef12127989e78d4
+SHA1: b5016dc2c90aeff1b0e8597738a6f20d4564402e
+SHA256: 3f6f8da21afa9945a02b4985e9935f1a644cc25ab222336edc2e22c3069885ed
+SHA512: 006571442fe4ce00ea2981823ec4e1595c452281749ce78a7af31943806fcb9e40843e7afbd26c0b9d10352f8e4f0e40156153dcf15bb7a8db7fb2e5f2daa0ad
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
+
+Package: com.ginsu.ytmusicultimate
+Architecture: iphoneos-arm64e
+Version: 2.3.1
+Section: Tweaks
+Maintainer: dayanch96 & ginsu
+Installed-Size: 19204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64e/YTMusicUltimate.2.3.1.arm64e.deb
+Size: 6790280
+MD5sum: 1dd572667ab29996ed41424a5ec963bf
+SHA1: 7aeb2ddd8ff3ab930f88197e57642ded1b9f28aa
+SHA256: b3b2ce363ac13bd1464b27dfeefff898f301a755259f972a034352f395f36b6e
+SHA512: d193d8d41118953b565a76752fb97aca88f02adf47537e5481e5bf190cddad17a0c26d74190ca3e19fc62647092297af8ec0f81074d6407d36217b14090044dc
+Description: YouTube Music Premium
+Name: YTMusicUltimate
+Author: dayanch96 & ginsu
+Icon: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/main/Resources/depiction.json
+
 Package: jp.dcsyhi.zetsu
 Architecture: iphoneos-arm64e
 Version: 1.6.2
@@ -4984,4 +5093,24 @@ SHA512: ba4a0e281bd09b5dd30ae3e06be76f4fed5d91130b092c18f854aa45352a01232e2adbd1
 Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
 Name: appstoretroller
 Author: Mineek
+
+Package: dev.zero.wicked
+Architecture: iphoneos-arm64e
+Version: 3.0b10
+Section: Development
+Maintainer: zero
+Installed-Size: 19416
+Pre-Depends: rootless-compat(>= 0.9)
+Conflicts: dev.zero.wisp
+Replaces: dev.zero.wisp
+Filename: ./debs/arm64e/wicked.3.0b10.arm64e.deb
+Size: 7903260
+MD5sum: 3274dd4a94d3c9a9d5b9d71ce73ff190
+SHA1: 90e1be5e5f687fa23f03f55c3a36279b7502c15f
+SHA256: 125c71df7e19e69c89f98d1312091214d0db2b041e0ec8248c864990182cb8f8
+SHA512: f2987e2fab684375f4c233ac9cf2067c9180c43acf81efd99f3bd1ee652961fc1f6af6d362f1e4271c9b76ce6241fcac00c87526cea11f802b41976ef6d2c1d6
+Description: wicked
+Name: wicked
+Author: zero
+Icon: https://raw.githubusercontent.com/HearseDev/hearsedev.github.io/main/tweak-assets/Wicked_2048x2048.png
 
