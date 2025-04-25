@@ -3995,6 +3995,44 @@ Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
 
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64e
+Version: 4.3-5+debug
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 6292
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/arm64e/BHTwitter.4.3-5+debug.arm64e.deb
+Size: 1033204
+MD5sum: 50865f9f75d1a2a651c430cee0f883cb
+SHA1: 733f7298ca6c15f955c5a0f59f99f65bb95ca324
+SHA256: a393a52267a785e1ae10531cdb19960e5e7e23a71d9b4a0f9a032d2506ebcb39
+SHA512: 0657eb02de348daa474ee4a6ed329d427a44bd36456699c78090ef18b1043d61933ba89001c8e36e2a17531d1d09576dfae59278e7c38dc3f5977067defe9828
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
+
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64e
+Version: 4.3.2
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 23864
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/arm64e/BHTwitter.NeoFreeBird.4.3.2.arm64e.deb
+Size: 7502724
+MD5sum: 81ec54259181057907e32afd0b1849f4
+SHA1: 5436050954fd90ef36d1efd2ebb3d92df50b6229
+SHA256: 0c5424b2f13d671232b2065e38349754a69d55effb6867ede201e439f3b134af
+SHA512: ec1cdfc61b9330a57d2bafe15f3bfef606b6d24b89c7569759c9545dc5f0aceb3db3f2e50b1fcd8bdb61d3d66537e08655dfe0cad8e4d81770fdf86a33a2e237
+Description: Awesome tweak for Twitter
+Name: BHTwitter NeoFreeBird
+Author: Bandar Alruwaili
+Icon: https://a7m.dev/file/a/BHTwitter/x.png
+Sileodepiction: https://a7m.dev/file/a/BHTwitter/a.json
+
 Package: com.0xkuj.backgrounderaction15autostate
 Architecture: iphoneos-arm64e
 Version: 1.0.3
@@ -4090,6 +4128,227 @@ Description: Add more controls to the expanded brightness CC module
 Name: BetterCCBrightness
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.betterccbrightness
 Author: level3tjg
+
+Package: com.0xkuj.blockwaupdates
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64e/Block.WA.Updates.1.1.arm64e.deb
+Size: 4260
+MD5sum: 1a124937c0fceb47060ecd85409f4a94
+SHA1: d0196a4705cf954d8a15aa25d0320362538d5487
+SHA256: 8ae90e98074930f93d239bb483aef9c9f2104fad301f1347428f1245d2957975
+SHA512: 7a5fede23517c45fc4fbb3655b5511f497852682fb36db312244bb7a551672bc649d76341bfb3dd4fba526fdca45e6b1af3a57f1368ba59941b0f67cceefd7d4
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=blockwaupdatesDp
+Description: Blocks Whatsapp message saying you must update
+Tag: purpose::extension
+Author: 0xkuj <kujmank@gmail.com>
+Name: Block WA Updates
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=blockwaupdatesDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: 0xkuj
+
+Package: netskao.blockappscreatealbum
+Architecture: iphoneos-arm64e
+Version: 1.1-2
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/arm64e/BlockAppsCreateAlbum.1.1-2.arm64e.deb
+Size: 5188
+MD5sum: 9bd8c175bd4a2aa9a6d1c131943464e9
+SHA1: a25a8310799d205e648ad161ed800427bcfb4e87
+SHA256: 6eaf5a8a74e913c7b2c0296e4fff66411c6cf5aabddaf8cb479528c5e5dca9af
+SHA512: 7e7beb723c4d425ecd9ad77654b2344da6dfe780b18ffb494247d00fdc5634c7991f1f1d7aa105c78a2ca225d91643f73ef1277f9e4b3d0338de50cc81d3c0fd
+Description: Block applications from creating their own albums
+Name: BlockAppsCreateAlbum
+Author: Netskao
+
+Package: com.nightwind.boldersreborn
+Architecture: iphoneos-arm64e
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Nightwind <nightwinddev@gmail.com>
+Installed-Size: 5808
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.ichitaso.iconorder
+Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, gsc.ipad, com.lizynz.folderx.rootless, com.lizynz.folderx
+Filename: ./debs/arm64e/Bolders.Reborn.1.1.2.arm64e.deb
+Size: 4865392
+MD5sum: 5589c881a62fdaac4da2e02bdc15a161
+SHA1: 451197573b8c8141a8caba608ac6f7994c438e58
+SHA256: 8e99798d9d8d42ddc975af4610f80ec1efe940c7f1b70dcd7bc6c74d05f64217
+SHA512: f3e44acc75699d8bec43ec0fa406412ca0f4d36bc2536ff54371bbd277516ab8ed64e8ad3e9077a46e293f818c3e0763871685c029631c4b1d91b6c87973f37c
+Description: Bigger and bolder folders, remade!
+Tag: compatible_min::ios14.0
+Author: Nightwind <nightwinddev@gmail.com>
+Name: Bolders Reborn
+Icon: https://img.chariz.cloud/icon/boldersreborn/icon@3x.png
+Depiction: https://chariz.com/get/boldersreborn
+
+Package: com.xcxiao.bottomcontrolx
+Architecture: iphoneos-arm64e
+Version: 1.3.3
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 479
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, oldabi
+Filename: ./debs/arm64e/BottomControlX.1.3.3.arm64e.deb
+Size: 108664
+MD5sum: f5fb54a16bc3efee95dd3395c8aeb456
+SHA1: 4c324bf23c684673f45c8626a2bd3aaf8effbefc
+SHA256: daa34c65bfc6ae7d912114fbc515290ed3c187eb576d64b323b7c1c168210ae4
+SHA512: cab5b0f3a7348953b75ddde436549952a07535b19253475c1b2ea5a302870682af0c285b0967a8466f6914c963d6dc1fcb4ba19d66f08bee6fa5b63bb0a46bd7
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bottomcontrolxDp
+Description: Easier access to your ControlCenter on iPhone X.
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Name: BottomControlX
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bottomcontrolxDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: XCXiao <958169971@qq.com>
+dev: xcxiao
+
+Package: com.cydiageek.byeseparatorscell
+Architecture: iphoneos-arm64e
+Version: 1.1.3
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 448
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Filename: ./debs/arm64e/ByeSeparatorsCell.1.1.3.arm64e.deb
+Size: 52300
+MD5sum: 60cf3528e93a765f215c7763b20cd132
+SHA1: e29d9121c6b1d6f0952d119a2b4e4601b8dcf8fd
+SHA256: a9847c7ed4ba5b43a958024819132eb805254dc1de8662234cd96e6fd93fef87
+SHA512: e32bd1761cfd1e247009fa08e32331a7fe8347df501255b65156c387d89d106f52158408838d123a1445c595040ae1fecfa1f6aaf19a5a613297762343525d7b
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byeseparatorscellDp
+Description: Remove the Space Between the Cells on System Wide!
+Tag: purpose::extension
+Name: ByeSeparatorsCell
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byeseparatorscellDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/ByeSeparatorsCell.bundle/ByeSeparatorsCell@2x.png
+
+Package: com.cydiaabdullah.cacloud
+Architecture: iphoneos-arm64e
+Version: 2.1
+Section: Tweaks
+Maintainer: CydiaAbdullah
+Installed-Size: 1116
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
+Filename: ./debs/arm64e/CACloud.2.1.arm64e.deb
+Size: 160520
+MD5sum: ae15aaebae2870ad6e77af2265c2b955
+SHA1: 49418a95a793aa914474e43ac28301bfd3b4f6e3
+SHA256: 0e49fa7b2eea32c315190811215d9f4941ebec6dbd2a33e9df44f00a388fc59f
+SHA512: 66c4376776d911951ae62b2e230f05a53fbc30fe8c91e63907d26b983f4e7c79b653fcddd256087935639d0267f1efa1dc879af3d9cbf6b5040785c178242958
+Description:  حذف الأعلانات لتطبيق انمي كلاود وتسريع عمل الحلقة اظهار زر المشاهدة والتحميل
+Name: CACloud
+Author: CydiaAbdullah
+
+Package: com.dvntm.cc18
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (<= 18.0)
+Filename: ./debs/arm64e/CC18.0.0.2.arm64e.deb
+Size: 4400
+MD5sum: 3575057a14dddc623aec4225ceb37623
+SHA1: 5ca3b0e9be6f1d8b8c04759e40e4af4a42190a77
+SHA256: 98d085856cd664fb6af30b152a4fe6668eb110be09aaec022a8ff709c163c8a7
+SHA512: c521a7ea8926045cd093d8971d3296c19b35a1eb71492ed88c41877fb167b58c79ac42daf422faf06478505cba5c29161c4752916c412062f18dfc3d2ca28396
+Description: Round CC modules replication, like in iOS 18
+Name: CC18
+Author: dvntm
+
+Package: com.kingpuffdaddi.ccbalance
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: KingPuffdaddi
+Installed-Size: 2112
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/CCBalance.1.0.3.arm64e.deb
+Size: 7884
+MD5sum: 9864cd52ffaae5b5c3ee477f79ab949e
+SHA1: 85fa36393a5251d20d880dec4052e6a78882101d
+SHA256: 2150dd88ca4619a7f16e50bea25350cdeff6a92c942d3cb177c80d537587b33f
+SHA512: 25c1691a06e8630094a264901b23031cf14cbcbe5bf1a9c93a5403d2a205286e92e9e9b0b608068dfab5ec933dbb2c0806ffbd8cc448c3bae080652f984895a8
+Description: Change the audio balance from CC
+Name: CCBalance
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.ccbalance
+
+Package: com.fiore.ccborder
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: fiore
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/arm64e/CCBorder.1.0.arm64e.deb
+Size: 5912
+MD5sum: 5356b3b5f6709f8626b6e4c8bc931785
+SHA1: 63e877dc6d20207d6fd534c150b17f81718d14e5
+SHA256: 0bd056a588f0669d3b87a02458aac887fb536a7ef1913f03f194f662cd83f68d
+SHA512: 8cb5644158bf9e213e45e1528a7ac19f191a37eed556fcc32f30ee57b0958509da9383384e4895140675fecff6a973dae6cd0128b6f949facee2d02e00d77d5a
+Description: Simple tweak that removes module background and adds a border, just like CoolCC!
+Name: CCBorder
+Author: fiore
+Icon: https://raw.githubusercontent.com/donato-fiore/repo/master/assets/com.fiore.ccborder/icon.png
+
+Package: com.dvntm.cmm
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 264
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64e/CallMeMaybe.1.0.arm64e.deb
+Size: 34020
+MD5sum: 24cd73d4a01fc760396312951f4e2b52
+SHA1: 5808564a0b51752cfec63e27d19b3e3d392b0615
+SHA256: d740d53ab308430bd50979f572750efb361c1f26e9a01ba1d5222d348b58cb64
+SHA512: 3ccefc0f87ae55199d781c8219859638700067ea32c0872bfb8209195464c93d76111867a60f7ff6620cd82051de0087bdbbb18b89794085db99097b01c18834
+Description: Enhancer for the system Phone app
+Name: CallMeMaybe
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/refs/heads/main/sources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/main/sources/depiction.json
+
+Package: app.catscript.lite
+Architecture: iphoneos-arm64e
+Version: 1.5.3
+Section: Tweaks
+Maintainer: 0x530c<0x530c@gmail.com>
+Installed-Size: 5892
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: app.catscript.pro
+Filename: ./debs/arm64e/CatScript.1.5.3.arm64e.deb
+Size: 29331680
+MD5sum: ccc65505ea6465734b025982862e190f
+SHA1: 8e07f81e3825165cbf7d7e546153fba5c8943fbe
+SHA256: f974a4d8a34e1e7aa0a61e785969e029c24a1880c9023b8e5f257f0553e2563b
+SHA512: fcb4fa3ebdd0457268e511ffe543c492e0a98a67d93a0025e57b4cc5918fddddde43826d17b1b85c231d6dc2d6d1cf62720962b42b925dce3d8380efd6f1b9fc
+Description: An automation framework designed for the iOS platform
+Name: CatScript
+Author: 0x530c<0x530c@gmail.com>
 
 Package: dev.mineek.appstoretroller
 Architecture: iphoneos-arm64e
