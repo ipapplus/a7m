@@ -4930,6 +4930,22 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/emojiport10resources.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/emojiport10resources.json
 
+Package: com.twickd.ray-delvalle.inevitable
+Architecture: iphoneos-arm64e
+Version: 0.7.4
+Section: Themes
+Maintainer: Ray Delvalle <raydelvalle@me.com>
+Depends: com.anemonetheming.anemone, com.spark.snowboard
+Filename: ./debs/arm64e/Inevitable.0.7.4.arm64e.deb
+Size: 12842596
+MD5sum: 40d25bae26bcac78a6575573a0cc0fc3
+SHA1: a8e017e8e829d0a0c66931e3885d9dc783f0d483
+SHA256: c212f85caa70a62dbbdf48c465a61c97421e1fe8e2f1ec681d1b0ec5b1c6b04d
+SHA512: ff47914fe2d490e9eb26cc42aa9a92c36c56576e6f6803b146e00a5ff516649d7a474ba9ca3e61aa80473ac97426187c6d90fc8843efb4eb8633ccfcc83c904b
+Description: This theme was Inevitable. You installing it is bound to happen. ;€
+Name: Inevitable
+Author: Ray Delvalle <raydelvalle@me.com>
+
 Package: jp.dcsyhi.zetsu
 Architecture: iphoneos-arm64e
 Version: 1.6.2
