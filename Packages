@@ -4658,6 +4658,259 @@ Description: Multiple containers for one application!
 Name: Crane Lite
 Author: opa334
 
+Package: com.ryannair05.cylinderremade
+Architecture: iphoneos-arm64e
+Version: 0.0.3-beta
+Section: Tweaks
+Maintainer: Ryan Nair
+Installed-Size: 604
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Conflicts: com.ryannair05.cylinder
+Filename: ./debs/arm64e/Cylinder.Remade.0.0.3-beta.arm64e.deb
+Size: 102752
+MD5sum: 94b97cb5f84aa756bf311b4e1bfa7dfb
+SHA1: e71b0550f5b37a41c76c306d850cc3e24eb9a0c1
+SHA256: fa7e2bcded07a77c01beed4e54993ff11d02657411215b98d7813a211a28dc4e
+SHA512: 1250b340710e8f9b609aac22efa7c4af68a2490d739610d0bdb88e677353d9b31f6a30a5fdfb6dae1b2c1591e155ce58019d26eb122dc1adacd4ef8f2af9c29e
+Description: Make your icons dance
+Name: Cylinder Remade
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@3x.png
+Author: Ryan Nair
+
+Package: me.ahmedbafkir.dleasy
+Architecture: iphoneos-arm64e
+Version: 2.14.6
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Installed-Size: 15544
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/arm64e/DLEasy.2.14.6.arm64e.deb
+Size: 5463040
+MD5sum: 93497bd47cd6280417bf04688b29aaca
+SHA1: 5ec8de295e23bd814963e71f5bf2d7835c300110
+SHA256: 83995638a7e332bce4f5e7ee54f64c5435d052a4acc4d8fcb1d543447966b07b
+SHA512: 9a01a716fdf53abccc72ec0ed0f9b78272cf037f478b4b06a79cab9950158c13cb31d3841e43fa8b894718232947bda4fc098efb7cfbfa423d4d03a4f872ba14
+Description: Download/Share images & videos from social apps easily!
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
+Package: com.asterix.digitalbattery13
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 509
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/arm64e/DigitalBattery13.1.1.0.arm64e.deb
+Size: 39356
+MD5sum: 761bcccdc447a0d4e4aca4d9e1f899b6
+SHA1: 6b3bc28aeafc7578da683463196859ef4a0f0f4a
+SHA256: 025c58d7cc5e67e95cc6f516a68866df6de083b23bf329adc1bdd7194f64fbda
+SHA512: e38b5e972dbf272d5c36657f0fdc0091c2c9173df5fc2286c0f8a6afcde7b4e98afd2db41560c9acf5c345345a7cb0859245b44ac182ec816d0c34cafcdb04c1
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=digitalbattery13Dp
+Description: Digital battery in statusbar for iOS13
+Tag: purpose::extension, compatible::ios13
+Author: Asterix <asterix_gaul@outlook.com>
+Name: DigitalBattery13
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=digitalbattery13Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: asterix
+Icon: file:///Library/PreferenceBundles/DigitalBattery13.bundle/icon@2x.png
+
+Package: com.nan.disablesblockaftercrash
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: System
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 7.0)
+Depends: plutil | com.bingner.plutil
+Filename: ./debs/arm64e/Disable.SB.Lock.After.Crash.0.1.0.arm64e.deb
+Size: 1212
+MD5sum: c74f6482347e159ae4112b89197690b1
+SHA1: d1b71ffb1192fc496cc2ab0ed2cd42ccd205ea7f
+SHA256: cfa2683450ad02a27828df507c6151ee5ae141de90ff9f518c57f060783b6af8
+SHA512: 2bd77eae73b7c4c052e6674bdc92576332865c1cb88d842cdbb3dcab58f764d288b0e5bbaca3a69284231c3223958e52f61435d6ff897b6aad7beca906591e49
+Description: 禁用 SpringBoard 崩溃后自动锁定的策略
+Name: Disable SB Lock After Crash
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablesblockaftercrash/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+
+Package: com.nan.disablethermalmonitord
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: System
+Maintainer: zhaonan
+Depends: plutil
+Filename: ./debs/arm64e/Disable.Thermalmonitord.0.1.0.arm64e.deb
+Size: 1188
+MD5sum: d30ba2d3aa2f505e813ffc095087270d
+SHA1: 57c3c765f0d99fcf6c9015480ab66b9b15acff72
+SHA256: 5d187c282aabee54f9535367fba4381a039b774f6138c74a0a1102b5d54c5f65
+SHA512: b7c0f9139fd4ae65497eb87beca90abdd0b9c0aebccae93dc9883316ca5ecc861f4ea424e6ebab1c39609d63d2d3fecc0661fd743bb0256ebf654929f0c4d4fa
+Description: disables ios thermal monitoring system, preventing performance throttling due to high temperatures.
+Name: Disable Thermalmonitord
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+
+Package: com.nan.disableupdates
+Architecture: iphoneos-arm64e
+Version: 0.1.1
+Section: System
+Maintainer: zhaonan
+Pre-Depends: file-cmds
+Filename: ./debs/arm64e/Disable.Updates.0.1.1.arm64e.deb
+Size: 1104
+MD5sum: 43b908e6ad412866635f63621fee7a4e
+SHA1: c360e9868b4cd8e9277f40a623213af12759b159
+SHA256: faca98515309fec298fc7253377df579fc1fcab5b10fd06064161f548b1f7ddc
+SHA512: ac558d27fc8f4a9d078ee931634e78654cc933fea1336953ca1989dce07ed7603d068fe23e97a9c55b36a7c33d3e8ef5f2af3f8c6b639668498821549d8b95e8
+Description: 通过锁定 /var/MobileSoftwareUpdate/MobileAsset/AssetsV2 来阻止系统更新
+Name: Disable Updates
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disableupdates/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+
+Package: com.netskao.disablebottombarlrswipe
+Architecture: iphoneos-arm64e
+Version: 1.1-2
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/arm64e/DisableBottomBarLRSwipe.1.1-2.arm64e.deb
+Size: 6740
+MD5sum: 5045264b658abc348e6bfccc76d356ae
+SHA1: c6f0c1419c26496604e3398dc4952b2f9abd6d24
+SHA256: f2fa1d85f7e56546afcd8df30b103bfc86e7eac3c3832370ac87670be78065ba
+SHA512: 1002da29746efb35dfe016354ce1f01634f42d3347ad7584d039b07b8064b158b9f081cf3f5d92283b55f5bc25b9891fe5549d14d6bc06942f7a91e6b9f00dfc
+Description: Disable bottom bar left/right swipe
+Name: DisableBottomBarLRSwipe
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.disablebottombarlrswipe.json
+
+Package: com.imokhles.disablertl
+Architecture: iphoneos-arm64e
+Version: 0.0.1-3+debug
+Section: Tweaks
+Maintainer: @iMokhles
+Installed-Size: 200
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/DisableRTL.0.0.1-3+debug.arm64e.deb
+Size: 4468
+MD5sum: 95be0de8b507994dff5b66a0291fc4e9
+SHA1: 64714b975b70d280133d0b17ad76ba7e6cc38bdd
+SHA256: a107660e03b7db104df16afc498129ad8bd2a2383e58785e57fd9f0805910732
+SHA512: 8715ce9a2acbb6d2154de6bb30ead9673edbecb8fbaa6b169afb91b8a8f36a59af5b1477d30860a9e0d5260cf480160286bbb3f3598a11759d7a33ab91dba081
+Description: Disable right-to-left languages across the system!
+Name: DisableRTL
+Author: @iMokhles
+
+Package: com.udevs.dockx
+Architecture: iphoneos-arm64e
+Version: 2.6.2
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 2036
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/arm64e/DockX.2.6.2.arm64e.deb
+Size: 415640
+MD5sum: aaec70f5f30d3e11757b7878bf5a61ab
+SHA1: 7ed1e2731ee6ee50e7db2be36d33a6f1f271caef
+SHA256: f0e27981d4525b62757a62dbb1e7ece0a5239c69aa2adfdc4330e47be26996a9
+SHA512: 1be6ac06546dd8fe58d81612ba04af117fa56a15782ca658012eff280706f27ebd5febbc3dfd8fc3749469ee0b923755387cd254478f1be082066ac415e09e84
+Description: Pasteboard shortcuts on your keyboard dock!
+Name: DockX
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.netskao.dumpdecrypter
+Architecture: iphoneos-arm64e
+Version: 1.5-1
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 952
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/arm64e/DumpDecrypter.1.5-1.arm64e.deb
+Size: 393452
+MD5sum: 9827ced463d745bb2d5c611ddd758e51
+SHA1: 48bdb302d53b986985e3a3877beb9c2b5ef36d0c
+SHA256: e49f98941934a6b550397428321d1d9f5ef5be5ef71d0666a42a4f352147bfc4
+SHA512: 31228eb1fa69f8cc41bec7cdc6fc49635cfcc96ad32616c80c7a6b0334cc1a24709bbb8b4f33cd30edc2ff53d153d3bf45f157aeafdc9031616311cba7615a38
+Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Name: DumpDecrypter
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.dumpdecrypter.json
+
+Package: com.ps.efmfontdl
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Section: Fonts (EFM)
+Maintainer: PoomSmart
+Installed-Size: 8
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: wget, curl
+Filename: ./debs/arm64e/EFM.Font.Downloader.1.0.5.arm64e.deb
+Size: 2116
+MD5sum: dcf58177fef4f7b7ec0b894e6fdfdca2
+SHA1: 2e2df2230d9c12f238ef18a73b0daebeac7df77d
+SHA256: d0ec5e84a5b0d3f7ce342e40e1b9f3e5ee282e91867f3923758c0c32cfa927ce
+SHA512: 34d450bc652cc2daa7d7933627048b0ccc0ef3df7e5042d7064ce52ed57f88afdffb4db28eda9634cfe0659a33cd030d89dd6b90afafd35c60ae4d697c612b68
+Description: Shell script to download emoji font for EFM.
+Name: EFM Font Downloader
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/efmfontdl.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/efmfontdl.json
+
+Package: com.ps.emojiattributes
+Architecture: iphoneos-arm64e
+Version: 1.9.0~b3
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 472
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.1), mobilesubstrate, com.opa334.libundirect (>= 1.1.6)
+Conflicts: com.ps.flexmoji
+Filename: ./debs/arm64e/EmojiAttributes.1.9.0~b3.arm64e.deb
+Size: 35400
+MD5sum: 4ecb403002c9db663847a8ae3dac1581
+SHA1: 22e8bdd327da88f67a3a7ef9100c8547dd1fa64e
+SHA256: 18425e909905544ba8c40b85bc4352798645b98dec009452d1b1ec24af68eb31
+SHA512: 50c0de5d3b5d7c4f529efb03b0982e9cf3ca4893eb3a090b9251d239e01acc72b86d3469999cdbe020ee7d7bb78fd0e5996723106761c06562d2655163127b2e
+Description: Various under-the-hood fixes for emoji display.
+Name: EmojiAttributes
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiattributes.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/emojiattributes.json
+
+Package: com.ps.emojifontmanager
+Architecture: iphoneos-arm64e
+Version: 1.3.8
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 368
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 6.0)
+Filename: ./debs/arm64e/EmojiFontManager.1.3.8.arm64e.deb
+Size: 29936
+MD5sum: ebd1ed32fce8c09c86fb7d3df50e6672
+SHA1: 5b4c354c4cf9a6902e3ca985cb5f2585040bdda8
+SHA256: bb2cf6057ea5a0905602d9ba05440a53987ee5eede20c48f17d2d2ebbb41f006
+SHA512: edfe4a93c8cc3fab3a06cc7a30fc6dfe4c9b8517bc4c814397a5d923ac95c70bf09c701df0c5ed49d24b5119dcfe613c35aee5a030e20a69856d4d320cd03d81
+Description: Emoji font override and management.
+Name: EmojiFontManager
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojifontmanager.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/emojifontmanager.json
+Icon: file:///Library/PreferenceBundles/EFMPref.bundle/EFMPref@2x.png
+
 Package: dev.mineek.appstoretroller
 Architecture: iphoneos-arm64e
 Version: 0.1.1
