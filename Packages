@@ -4312,6 +4312,91 @@ Name: CCBorder
 Author: fiore
 Icon: https://raw.githubusercontent.com/donato-fiore/repo/master/assets/com.fiore.ccborder/icon.png
 
+Package: com.gilesgc.cccalc
+Architecture: iphoneos-arm64e
+Version: 1.2.2
+Section: Tweaks
+Maintainer: gilesgc
+Installed-Size: 364
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/CCCalc.1.2.2.arm64e.deb
+Size: 76204
+MD5sum: 5a415669618fee8cd11dadf9a608c05e
+SHA1: 9ce271f2b4f249b1178a49368d84ae3fcecd6a95
+SHA256: 21ab9cda6bcb3fc9ebf8b32aecabeb98be74df49b0a116bc70bc079ed473b561
+SHA512: eb1c0b2a07a107aa8050369d31a849ac2bb6f5fae8ab4e51521509b52166c95dcc9440ff2500662ec47b1ce181b02fce96d26e16469c4dfb0c77cc503acb74b5
+Description: Turn your control center's calculator module into a real, working calculator
+Name: CCCalc
+Author: gilesgc
+Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.cccalc
+Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
+
+Package: com.jailbreak365.safeccmodules
+Architecture: iphoneos-arm64e
+Version: 1.5-1
+Section: Addons (ControlCenter)
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 5131
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/arm64e/CCModules.1.5-1.arm64e.deb
+Size: 1127652
+MD5sum: 726d436eb35501eec1bfe523f23e926c
+SHA1: 8f021b54d02df3fc4934561961fa8d14a8c625d8
+SHA256: 28b8504845598172e29203044701d28ea643da78086a7edebb953a3ead142630
+SHA512: a5840f7006fde33911424dfc3cb01004d1ef62f4a8036ddf668a67dd848e4220ada8dcd5f5b5f1a0b86cfb796640be6fceb622aa4aa10a55421c93a31c5364bd
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccmodulesDp
+Description: More control center modules for iOS 11/12/13
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccmodulesDp
+Author: jailbreak365 <jailbreak365@mail.com>
+Name: CCModules
+dev: jailbreak365
+
+Package: com.mtac.ccpowermenu
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Control Center (Modules)
+Maintainer: MTAC
+Installed-Size: 356
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: com.opa334.ccsupport
+Filename: ./debs/arm64e/CCPowerMenu.1.0.2.arm64e.deb
+Size: 33144
+MD5sum: 63e6f703f797a351acaf394945f9c51e
+SHA1: 4c9237de9b168ffbc12d6bc113afa5c002abd5fb
+SHA256: c67cf40dfd5cac13557a6fb0e0a2bdfaaf6dc96f96e62b37a9a785a164f32327
+SHA512: 72e93e0c2624407ea50aeab5bfa538fb6e0a23d3a5a7fea7ee5e0c2a72b5c19f668774cca13d98335cad88d6b5f94c59a563d35b4211a82aef291263f3b1bc41
+Description: Control device power options from Control Center
+Name: CCPowerMenu
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.ccpowermenu/icon-rounded.png
+SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.ccpowermenu.json
+
+Package: com.kingpuffdaddi.control-center.ccvpn
+Architecture: iphoneos-arm64e
+Version: 1.0.6
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 187
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/arm64e/CCVPN.1.0.6.arm64e.deb
+Size: 15484
+MD5sum: 230041006d024a8521462c7d3edc2ef2
+SHA1: 0d58e91e4987c802b3e732519117b6cf92f11f31
+SHA256: 93609d41689611d48880df44b95e1e54a6a452390a4f8c9e589e8717e3233b0c
+SHA512: b266ce87db092726b6fa5b18660f53824381855c3ff4edb0c38383c11ac142587dcde8227a544365b7576560e2f0f31e9d2538846109ea3fd35bc94dccd8042e
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
+Description: A Control Center Module to connect/disconnect VPN
+Tag: purpose::extension
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
+Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
+Name: CCVPN
+dev: kingpuffdaddi
+Icon: file:///Library/ControlCenter/Bundles/CCVPN.bundle/Icon@2x.png
+
 Package: com.dvntm.cmm
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -4349,6 +4434,229 @@ SHA512: fcb4fa3ebdd0457268e511ffe543c492e0a98a67d93a0025e57b4cc5918fddddde43826d
 Description: An automation framework designed for the iOS platform
 Name: CatScript
 Author: 0x530c<0x530c@gmail.com>
+
+Package: org.coolstar.classicfolders2
+Architecture: iphoneos-arm64e
+Version: 3.0.6
+Section: Tweaks
+Maintainer: CoolStar
+Installed-Size: 4464
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
+Filename: ./debs/arm64e/ClassicFolders.2.3.0.6.arm64e.deb
+Size: 3287860
+MD5sum: 23cfb9c8c3f51d127a9350d5ed888509
+SHA1: 41ca60501a1ca376669316db7483169718934c0a
+SHA256: b4448738a88c72c278ef6fb9212e2fc5fe3c295ae7def99f28a07f8d5725f986
+SHA512: ee07baf7b7e3f7b8be07a79831c182b9a096146ed4008b43284d53054ec1bd6f07293e361993c6b464878aeeff73a45fe8d783038ef24aa295978c9da31e9d96
+Description: An awesome MobileSubstrate tweak!
+Name: ClassicFolders 2
+Author: CoolStar
+
+Package: com.nahtedetihw.closeall
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Ethan Whited
+Installed-Size: 208
+Pre-Depends: rootless-compat(>= 0.9)
+Depends:
+Filename: ./debs/arm64e/CloseAll.1.0.arm64e.deb
+Size: 21424
+MD5sum: c2388fb476c83cec61ff1cbfd2b0f23d
+SHA1: 2420972a654682cdb72f8015d95e0a72e305c0d1
+SHA256: 3f9556d20d6cd4222fa5ad66655fe7ae2ff555ef3c29c578621caf25719a6125
+SHA512: 7fc59f9260a0203edec54656027f5170aeca718d338cac1c19fd38229f5dbd904404943c156221f89c12a9cd1338555b9553ba738fb29b74ad8fe874c2aa1cb5
+Description: An awesome MobileSubstrate tweak!
+Name: CloseAll
+Author: Ethan Whited
+
+Package: ru.domo.cocoatop64
+Architecture: iphoneos-arm64e
+Version: 2.2.3
+Section: Utilities
+Maintainer: SXX, Domo
+Installed-Size: 892
+Depends:
+Conflicts: ru.domo.cocoatop, xyz.cypwn.cocoatop64
+Filename: ./debs/arm64e/CocoaTop.2.2.3.arm64e.deb
+Size: 202360
+MD5sum: 7d87a4331d20c3bb3dd61de586cec94c
+SHA1: 447cae63b4314b749fff9eba7be50a4ea74e8d7f
+SHA256: 7d0bd592447f96b73ed32b87dcd591770aa064763844a21d1af961146fa60727
+SHA512: 3da86836b83e10a17657a7a5130833086299fa5c08f8d0e9a0ff21a5538bb4d2f0a61b5c2a8b09a4a35130842f075df1db3836e19aa4b2181ce649c1ebd21c02
+Description: Process Viewer for iOS GUI, updated for iOS 15 , 16 by SXX.
+Name: CocoaTop
+Icon: https://i.imgur.com/TTIm0yH.jpeg
+Author: Domo, SXX
+
+Package: zp.cocoatop64.unject
+Architecture: iphoneos-arm64e
+Version: 3.1.2
+Section: Utilities
+Maintainer: zp, SXX, Domo
+Installed-Size: 840
+Depends:
+Conflicts: ru.domo.cocoatop , ru.domo.cocoatop64 , zp.cocoatop64 , zp.cocoatop64.inject
+Filename: ./debs/arm64e/CocoaTop64.zp.3.1.2.arm64e.deb
+Size: 183756
+MD5sum: dc19c38d8b200b338d3d965499ef8cec
+SHA1: 69ee05a634ac6441baa1fbb9a61b009ce639490c
+SHA256: ee04f45cec6886588a9036c0178432d1a6ac355407895344a792cf690005354b
+SHA512: 49ac6bc4f2455694282ff279deaadc166cb92e38ad17733fe56c76765c2c9fd6ce3da1a80e92a6c20591b850c788ec9dcb4e02bb2236f1985a9f9d693c706c3d
+Description: Process Viewer for iOS GUI,适配rootless并增加一些小功能.
+ - 1.长按图标的插件针对APP更友好
+ - 2.此app更适合屏蔽进程类的注入
+ - 3.laileld要加的copy给加上(如果是/开头,使用filza打开)
+Name: CocoaTop64.zp
+Author: Domo, SXX , zp
+SileoDepiction: https://rootless.zqbb.cf/web/zp.cocoatop64.unject
+
+Package: com.fouadraheb.contactsync
+Architecture: iphoneos-arm64e
+Version: 1.1.14
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 600
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.0)
+Filename: ./debs/arm64e/ContactSync.1.1.14.arm64e.deb
+Size: 115956
+MD5sum: 5c818e4ff902f658eb72a71d79cb12ec
+SHA1: 31b6c84a8f19d2c9451163d7cf287bb39e952781
+SHA256: d32101bbed6d9d89cca23e4605a0864baa10fe5b9d37c41f0b38e04adcdc992b
+SHA512: 77a22432d61f4c7452fbea54732ed5e1882bf5ca3ac460ecafb938fae227f76cc2103d7a983c86c76727a0ba34ab698e4ceeb79a32cebb321c815304a5d3140d
+Description: Sync WhatsApp Profile Pictures to your Contacts
+Name: ContactSync
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+Icon: https://i.imgur.com/hPYY9n7.jpeg
+
+Package: com.darwindev.CookiesTool-iOS
+Architecture: iphoneos-arm64e
+Version: 0.1-2
+Priority: optional
+Section: System
+Maintainer: Lessica <i.82@me.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0)
+Filename: ./debs/arm64e/CookiesTool-iOS.0.1-2.arm64e.deb
+Size: 130952
+MD5sum: c6852c8bfeacec1e73cd80b959de51be
+SHA1: 29c20b3bf7898b12a69733c04b97b1f85793f2aa
+SHA256: 2e98a16df9292873573e52d660b1f1a6687bba679ed23708112a290818d2fd69
+SHA512: d0177ff051cbbc5da6340572ba73144fc6e3862a6b84125398bed7655c1ed660bf13e657dab62e2a28134b9ba1d7fc479b92344cd1c9cdcb4593c8b2baee0175
+Homepage: https://github.com/Lessica/CookiesTool
+Description: Convert between Apple BinaryCookies, Property List, JSON, Netscape HTTP Cookie File (curl cookie jar).
+Name: CookiesTool-iOS
+Author: Lessica <i.82@me.com>
+
+Package: com.tools4cydia.copylinkdeb
+Architecture: iphoneos-arm64e
+Version: 3.0.4-1+rootless
+Section: Utilities
+Maintainer: Tools4cydia
+Installed-Size: 11568
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/arm64e/CopyLinkDeb.3.0.4-1+rootless.arm64e.deb
+Size: 476356
+MD5sum: 2598453839821c6d2cba2ff09d108adc
+SHA1: 2b5e6b697a561f604460daf88ba0d96943cb51fd
+SHA256: 13f3730d29d1157a41af72e1617c304342524505da531f64d47d202b87422106
+SHA512: be2c4a10e69da2a3c3489cce13532c34e4c109fe08595b0a0fd5e0505dfe5b77b90c79a041a8bce63ede4182b10a7d9dccf34b670d32a3c795c06ef42a9fced5
+Description: تحميل ونسخ روابط ديب من سورسات Download deb files from sources!
+Name: CopyLinkDeb
+Author: Tools4cydia
+
+Package: me.tomt000.copylog
+Architecture: iphoneos-arm64e
+Version: 1.5.6
+Section: Tweaks
+Maintainer: TomT000
+Installed-Size: 4252
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.0xkuj.copylogfix16
+Filename: ./debs/arm64e/CopyLog.1.5.6.arm64e.deb
+Size: 1507876
+MD5sum: 3b16d805b5c93ab2232fef484705fc36
+SHA1: 79e4d321b2df4e6d35be6de8e3ba29a75b0a85c6
+SHA256: 684eded416c2570ded87597b8aabc3b485687e871643e8af0d490c2b2fa590c1
+SHA512: 181f64641a9a2ddb63069ae611abdfc11f62def53d7fb89552e01b450cb435acb2f873c4d824568aecdf903ca295aa456a7d418e96e5cbd26903fa418c004a51
+Description: Clipboard history manager for iOS!
+Name: CopyLog
+Author: TomT000
+
+Package: com.0xkuj.copylogfix16
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: me.tomt000.copylog, firmware (>= 16.0)
+Filename: ./debs/arm64e/CopyLogFix16.1.0.1.arm64e.deb
+Size: 6284
+MD5sum: e1ff718b104073b61a9a0d90c7a054f8
+SHA1: cce810aefb55c01742debdd6234c54fe2fa40a6d
+SHA256: 648b9329a3102cad81a2c5f1fd15ceb49e9da2aee86f7f76318df0521c8eaa0e
+SHA512: 4f33d1b7c567cffc709608038a303d19b979f75108be18953686f82b8b1af92de7a780cdaa1067f36592b84c79eb0e88aa1dfe453af4f2458dd8822de1eb36f9
+Description: Fix copylog not working on iOS16
+Name: CopyLogFix16
+Author: 0xkuj
+
+Package: com.squidforce.copyvault
+Architecture: iphoneos-arm64e
+Version: 1.9.0
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 6304
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/arm64e/CopyVault.1.9.0.arm64e.deb
+Size: 1700372
+MD5sum: f47098fd716ac5cc777f94c43915b13b
+SHA1: a674675befd656564adb78d31ad8495d9c34bb28
+SHA256: 05365303b3e636c981d9678976a62a7f76638eb34e51f7a7178e9c8a03ece762
+SHA512: dd995d6837ce39d766867583c50d0365cd715a0849df76471b7179ef2a0bdae8af78aa62c4fb673fe16009c3468fb79af9934c8c530d60884df23eea048d738f
+Description: Your Copy Vault, Your Pasteboard
+Name: CopyVault
+Author: SquidForce
+
+Package: com.muirey03.cr4shed
+Architecture: iphoneos-arm64e
+Version: 4.3.1-1+debug
+Section: Tweaks
+Maintainer: Muirey03
+Installed-Size: 2356
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid, cm90.crossoveripc
+Filename: ./debs/arm64e/Cr4shed.4.3.1-1+debug.arm64e.deb
+Size: 211540
+MD5sum: de549fff1496936ac5148066b9672c52
+SHA1: e3939127928e3e27012aa63d93feecdbc2a098fe
+SHA256: b33603b0e6219580e8c546d20f175f77bb965fe9ce2c2547c66c3b513cc66412
+SHA512: b597508f178fb7b7ef66082df2b5e4b3b94b0f40662696c1aaca97c88ff9b9328f67e72dbaaedc3acdbfa300e7450a030f5ae87301cd738f72aba4ec5580e240
+Description: A modern crash reporter for iOS
+Name: Cr4shed
+Author: Muirey03
+
+Package: com.opa334.cranelite
+Architecture: iphoneos-arm64e
+Version: 1.3.16-4
+Section: Tweaks
+Maintainer: opa334
+Installed-Size: 2184
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.crane, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/arm64e/Crane.Lite.1.3.16-4.arm64e.deb
+Size: 341912
+MD5sum: b7fa8abbe469e40aaf5c7aa39bf073e7
+SHA1: 4c9036ea72581d31aedfcdfbf2e51f4431b23a23
+SHA256: 88eb3870714cde0acfa7fba7da839084c31cd5228a6ea064df820d6ec6cb8cf0
+SHA512: da6b552a7fde8ba2ee390dc1fce70749ec057096625ae44a83fd46df141e94543ea63b0678cfd73dde24d3885c02add1a48cb441c3dc7ce61bd1ba2e6afa32e3
+Description: Multiple containers for one application!
+Name: Crane Lite
+Author: opa334
 
 Package: dev.mineek.appstoretroller
 Architecture: iphoneos-arm64e
