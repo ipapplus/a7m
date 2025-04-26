@@ -7697,6 +7697,24 @@ Description: Automatically switch away from "everyone" AirDrop visibility after 
 Name: TempDrop
 Author: iCraze
 
+Package: com.sudo.termcolors
+Architecture: iphoneos-arm64e
+Version: 2.2.2
+Section: Utilities
+Maintainer: Sudo
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/Term.Colors.2.2.2.arm64e.deb
+Size: 2079704
+MD5sum: b8ca2cdde28e16a862b8e26981c590fe
+SHA1: 225958cd947a6929e85294f0bb1fb2af13d6f178
+SHA256: aa7c755ffdb817f40aa1f365370da5eef11c261c39081a8955785f0c8dc430bf
+SHA512: b9cc537b0a3b24410a048105754c60cd5d317051b191067f869100f1a1ee4dd7cf5724c70d948b0662ed47d0d61e9e9bd8f9da43b94dc69383844565eca26c05
+Description: Bash and Zsh setup with colorized prompt, text, dircolors, cat (bat) syntax highlighting and nano colors. Random color prompt generator by typing 'random' in your terminal.
+Depiction: https://sudo9000.github.io/depictions/termcolors/index.html
+Name: Term Colors
+Author: Sudo
+Icon: https://sudo9000.github.io/depictions/termcolors/assets/icon.png
+
 Package: dev.objcmsgsend.theta
 Architecture: iphoneos-arm64e
 Version: 1.1
