@@ -3643,46 +3643,6 @@ Description: iOS 16 Style Battery Indicator
 Name: Ampere
 Author: MTAC
 
-Package: netskao.appdata-rootless
-Architecture: iphoneos-arm64e
-Version: 1.4.1
-Section: Tweaks
-Maintainer: Nets
-Installed-Size: 23032
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/arm64e/AppData-Rootless.1.4.1.arm64e.deb
-Size: 5072492
-MD5sum: fb1d0c5697ccb89cd3445a283a819409
-SHA1: a4e67a1118719b9b81eed3106d15d8eedfd048d9
-SHA256: 04d81a9cd3ca20e29bf025c4a415226a62afb8736ca03353d744ad2dbbf39acf
-SHA512: bec0e3e783e0ac57236d724845fe1bde97add1e66f8613d777248e48b23fa7346aa0286c29b9d04f5e44917df50385cff58af5c6842541b13e13bf367be8673e
-Description: View & Manage Applications Data from your Home Screen & downgrade
-Author: Fouad Raheb
-Name: AppData-Rootless
-
-Package: com.fouadraheb.appdata
-Architecture: iphoneos-arm64e
-Version: 1.4.0
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 792
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Conflicts:
-Filename: ./debs/arm64e/AppData.1.4.0.arm64e.deb
-Size: 110728
-MD5sum: 153b0aaa6a3154b537e90f537dc137e2
-SHA1: 3dea018d499ea08bad7efe7e73634b2971f50850
-SHA256: 804717c065b677d5c8c5ddc13d8ef4bcb799c7ae5e75410e275c5e3648c2ca07
-SHA512: b9b7c6dbd878fbd73fec3b7b4d1ebf451116afff5b8582350946356535e3caa8b994911a366dc9ad64fdd73e78745c73a42ce05e8ff79bf0147fcff0cd51085c
-Description: View & Manage Applications Data from your Home Screen
-Name: AppData
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata
-SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata/sileo
-Icon: https://i.imgur.com/5rWVTRV.jpeg
-
 Package: com.netskao.appdata
 Architecture: iphoneos-arm64e
 Version: 1.4.4
