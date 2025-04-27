@@ -5152,22 +5152,6 @@ Name: Flex To Theos
 Depiction: https://Randy-420.GitHub.io/depic/ftt.html
 Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
 
-Package: apt.llld.Flex3beta
-Architecture: iphoneos-arm64e
-Version: 1.3~Beta98
-Section: roothide修复插件
-Maintainer: 来了老弟
-Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), oldabi
-Filename: ./debs/arm64e/Flex3程序修改器-roothide.1.3~Beta98.arm64e.deb
-Size: 40201732
-MD5sum: 901b4b4a3cbc2e75c4eac02fcef04230
-SHA1: e52edcb114c62adf392368395bcca1c79d9534a3
-SHA256: d2b2e5bdb2bef72044e6a84d89d9a9a226003e28d5a7546b636a62b52666af85
-SHA512: b1330924e4f423595313b0d345ad5a75d7f93a61487fb192842948447f4ac5b73956a4aeef7ab6746535b38ef6a6a8b1e7c211f3ecdfa2bee3ffff58988df86a
-Description: A powerful app to remove ads and enhance system patches.一款强大的App去广告和系统补丁增强神器，需要安装Legacy arm64e Support_________仅测试用,有问题卸载
-Name: Flex3程序修改器-roothide
-Author: John Coates
-
 Package: org.wuffs.flickplus
 Architecture: iphoneos-arm64e
 Version: 0.0.9
@@ -8516,6 +8500,23 @@ SHA512: ba4a0e281bd09b5dd30ae3e06be76f4fed5d91130b092c18f854aa45352a01232e2adbd1
 Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
 Name: appstoretroller
 Author: Mineek
+
+Package: apt.llld.Flex3beta
+Architecture: iphoneos-arm64e
+Version: 1.3~Beta98
+Priority: optional
+Section: Tweaks
+Maintainer: Lai Le Lao Di
+Depends: mobilesubstrate, firmware (>= 12.2) | org.swift.libswift (>= 5.0), oldabi
+Filename: ./debs/arm64e/apt.llld.Flex3beta_1.3~Beta98_iphoneos-arm64e.deb
+Size: 40199520
+MD5sum: a592940f4a45f73cbe57c55d50574f72
+SHA1: c755b87b03cd5d35b0b35707da6cdd320dfcec0d
+SHA256: 302c03284a7fc5b09ba4edeade44890bf66fc6fdf4cc0f5d0b6553dc20b02071
+SHA512: 384c06914c6f9951c33605c7577f6dc8d6634f1f3868d9021c892acab90ae6d8a2ad2dfc3e9362e0f07da3e1bf4c44d90b5954481990e6ffcee1a2059d843869
+Description: A powerful app to remove ads and enhance system patches. Requires installation of Legacy arm64e Support. For testing only, uninstall if any issues arise.
+Author: John Coates
+Name: Flex3 App Modifier - RootHide
 
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64e
