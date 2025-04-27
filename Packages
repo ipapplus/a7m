@@ -5152,6 +5152,22 @@ Name: Flex To Theos
 Depiction: https://Randy-420.GitHub.io/depic/ftt.html
 Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
 
+Package: apt.llld.Flex3beta
+Architecture: iphoneos-arm64e
+Version: 1.3~Beta98
+Section: roothide修复插件
+Maintainer: 来了老弟
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), oldabi
+Filename: ./debs/arm64e/Flex3程序修改器-roothide.1.3~Beta98.arm64e.deb
+Size: 40201732
+MD5sum: 901b4b4a3cbc2e75c4eac02fcef04230
+SHA1: e52edcb114c62adf392368395bcca1c79d9534a3
+SHA256: d2b2e5bdb2bef72044e6a84d89d9a9a226003e28d5a7546b636a62b52666af85
+SHA512: b1330924e4f423595313b0d345ad5a75d7f93a61487fb192842948447f4ac5b73956a4aeef7ab6746535b38ef6a6a8b1e7c211f3ecdfa2bee3ffff58988df86a
+Description: A powerful app to remove ads and enhance system patches.一款强大的App去广告和系统补丁增强神器，需要安装Legacy arm64e Support_________仅测试用,有问题卸载
+Name: Flex3程序修改器-roothide
+Author: John Coates
+
 Package: org.wuffs.flickplus
 Architecture: iphoneos-arm64e
 Version: 0.0.9
