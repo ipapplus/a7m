@@ -5528,6 +5528,27 @@ Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
 
+Package: com.den.igformat
+Architecture: iphoneos-arm64e
+Version: 1.74-2+debug
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 1332
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64e/IGFormat.1.74-2+debug.arm64e.deb
+Size: 195896
+MD5sum: c30d0cc834d155a27b8e1ec98b2ea2b3
+SHA1: a1901c884191ae92dca62470a9a61c4f522c9459
+SHA256: 59b8ed2d29707dff9bdea65a0fed619c14c1ec3ea6d2234ff0c47a82cac4c8a2
+SHA512: 646b4999d90e6680938093c334cbac649b86adbc3a3f01e56f729025af2acc9952607e898ada6a140f1b7ea57caea2a8f0171d515b6298f2cdeca8466841c2b3
+Description: Powerful Instagram Tweak
+Name: IGFormat
+Author: MrDeNsor
+Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
+Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
+
 Package: me.luki.iwanttranslucent
 Architecture: iphoneos-arm64e
 Version: 0.9.4
