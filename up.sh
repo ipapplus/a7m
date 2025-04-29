@@ -14,10 +14,9 @@ for deb in ./*.deb; do
     dpkg-deb -x "$deb" temp_dir
     dpkg-deb -e "$deb" temp_dir/DEBIAN
 
-    sed -E -i \
+    sed -i \
       -e '/^Recommended:/d' \
-      -e 's/([[:alnum:].+:-]+)[[:space:]]*\(<[[:space:]]*([0-9]+(\.[0-9]+)*)\)/\1 (<= \2)/g' \
-      -e 's/([[:alnum:].+:-]+)[[:space:]]*<[[:space:]]*([0-9]+(\.[0-9]+)*)([[:space:],;]|$)/\1 (<= \2)\4/g' \
+      -e 's/+debug//' \
       temp_dir/DEBIAN/control
 
     dpkg-deb --build temp_dir "$deb"
