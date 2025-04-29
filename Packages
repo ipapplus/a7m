@@ -2882,6 +2882,28 @@ Description: Snowboard theming engine
 Name: SnowBoard
 Author: Spark & Dennis D. Bednarz
 
+Package: com.ichitaso.spectrogram
+Architecture: iphoneos-arm64
+Version: 0.1.1
+Section: Tweaks
+Maintainer: ichitaso <willfeeltips+spg@gmail.com>
+Installed-Size: 436
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debs/arm64/Spectrogram.0.1.1.arm64.deb
+Size: 52552
+MD5sum: e9ed6cbd4b69e10d070c4dc89b0b3244
+SHA1: db023aaf20975ac13ad95d413d6a410e4a23afd2
+SHA256: bed37efae1aa07d78c9bfd3b59c59bcccf7fee04f866f14ed2877a488ea2f798
+SHA512: 099541d65b3bcd03d1619f1a9e34805af36618cfb82cb73b8c98bf741fd6e51a76387f7791a98186ea7543ee911ce5eaa28a2d85a7abf0b24a8e39d8fc9ce1e5
+Homepage: https://cydia.ichitaso.com/depiction/spectrogram.html
+Description: Use volume buttons to control screenshots and more
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Author: ichitaso <willfeeltips+spg@gmail.com>
+Name: Spectrogram
+Depiction: https://cydia.ichitaso.com/depiction/spectrogram.html
+dev: ichitaso
+Icon: file:///Library/PreferenceBundles/SpectrogramSettings.bundle/icon@2x.png
+
 Package: xyz.skitty.spectrum
 Architecture: iphoneos-arm64
 Version: 1.1
@@ -7486,6 +7508,29 @@ Name: SoundVol
 Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.sugiuta.soundvol
 Author: sugiuta
 Icon: https://sugiuta.github.io/repo/images/icons/SoundVol.png
+
+Package: com.ichitaso.spectrogram
+Architecture: iphoneos-arm64e
+Version: 0.1.1
+Section: Tweaks
+Maintainer: ichitaso <willfeeltips+spg@gmail.com>
+Installed-Size: 436
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debs/arm64e/Spectrogram.0.1.1.arm64e.deb
+Size: 52868
+MD5sum: e906c06213cf67f4899d2f518847398f
+SHA1: d0f08fd3a1e3962d00184d3d3ac8b7c4febd98ed
+SHA256: dc7b307cfe88e3039229a21b708fc572505855d8cd68196142bc6c0a7d6ddc3f
+SHA512: 9d83dea871ba41073e3f98226eacdc9aa5437bfb5ebc5739202b2bb8bf7360f678c21a365779a457b50b8ac422b3779b7e975995f1f74c444620a9acfcc617e7
+Homepage: https://cydia.ichitaso.com/depiction/spectrogram.html
+Description: Use volume buttons to control screenshots and more
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Author: ichitaso <willfeeltips+spg@gmail.com>
+Name: Spectrogram
+Depiction: https://cydia.ichitaso.com/depiction/spectrogram.html
+dev: ichitaso
+Icon: file:///Library/PreferenceBundles/SpectrogramSettings.bundle/icon@2x.png
 
 Package: xyz.skitty.spectrum
 Architecture: iphoneos-arm64e
