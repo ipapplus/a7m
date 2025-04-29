@@ -1706,20 +1706,19 @@ Architecture: iphoneos-arm64
 Version: 0.0~beta6
 Section: Tweaks
 Maintainer: Julio
-Installed-Size: 412
-Depends: mobilesubstrate, preferenceloader
+Depends: mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: ./debs/arm64/GoodWiFi.0.0~beta6.arm64.deb
-Size: 41120
-MD5sum: f6c432ff2415b47150a7a7c3e3cb96d6
-SHA1: c7c54b6b5af4ec80128f2a099d49757ee5617ad4
-SHA256: aa3972dc4807da07d2f2bebfa72e2497ce3d6c40192f0ef98c4bba2b7956c1ce
-SHA512: 975eece9db409223be3b4675379558f33fdcad7b4ba68820cf51eb48970bdadd671567e6b324cb89e6e2f35d00ac979153d008f00293ed7739558d43f345b93d
+Size: 43180
+MD5sum: fbecfc8f69f0f303da8e77c4dbac685b
+SHA1: 3783560d77e4831ca036c94c7b22fb0f603359d1
+SHA256: 5f52a50acfda1cdf7b2a24aa305978396a0ea2549af36a5432a5646e84a365a5
+SHA512: 459d432c198d2fcc82f25188185d7e9310468aa16acf1d2575f6ddfc0989ecef63a6667a771b39a733e1ba51e5875cc0d531780d42b25df9686d6e2e544ef17c
 Homepage: https://twitter.com/ijulioverne
 Description: Better WiFi Preferences
-Author: julioverne
-Depiction: https://julioverne.github.io/description.html?id=com.julioverne.goodwifi
-Icon: file:///var/jb/Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
 Name: GoodWiFi
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.goodwifi
 
 Package: me.kritanta.gravitation
 Architecture: iphoneos-arm64
@@ -3163,11 +3162,11 @@ Maintainer: FissionDev
 Installed-Size: 468
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0)
 Filename: ./debs/arm64/Uranium.1.2.7.arm64.deb
-Size: 38408
-MD5sum: 1c4bfaabe83ededc5f8a33a36ff4a0dd
-SHA1: 392487b889a714b8185203b3438cbb1036495fd3
-SHA256: 51d96c3d86467c1fbdc67ad1c2c3a457c22c58a3c6b1ce89c056f0256b59184a
-SHA512: ea078b180351d808ee824aacb8be6d37db98d69d3bba29b7a9e47f803d340fa92f57101b1c066f7cd92b67a44029a94475d5c136e7a6284b90e3ad887661760b
+Size: 38572
+MD5sum: 0e5f3e825f071aab0c9857c4d0ecc997
+SHA1: 490132be2186ce9fb9b0f258c6641b9ad8064089
+SHA256: 87bd6b9faf59f7db1d720fabd52d53193b427962063d8f3e7438ef3629411d05
+SHA512: 33e9e359651bf7c859f825b9f4e08533d5076bd24e1d13734cca72b7d32a2d8d2043dd5f85089bc304c32a5dd29870f2be84b782858b39d74263e304750dde67
 Description: Lots Of Options To Enhance Your iOS Experience!
 Name: Uranium
 Author: FissionDev
@@ -8058,11 +8057,11 @@ Installed-Size: 468
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0)
 Filename: ./debs/arm64e/Uranium.1.2.7.arm64e.deb
-Size: 37364
-MD5sum: 0b45276c263c6453f765e5f679954d2c
-SHA1: e55151552ad5163b2ae982aeb935ec0aeb64838d
-SHA256: 558baf42c1d2faf5c441a1ff77417dd18767c7aab7363e8fe69f3885e1a155d0
-SHA512: 82ab41806fea1dc6cf0ca1228d138f01f78270fe8c69bc31b82e47297b8328a99dfeaa7fdc1907b8db15412b619c9b78ab9c8a0b9b48512d99310c7fdd1fff15
+Size: 39720
+MD5sum: 4ece01783409cdea8e54bf79c1f75385
+SHA1: 17f00c4fa04408d988a9aa569b0b028a77e9aab6
+SHA256: f1b8d02c02ccb4f87318b497081fe16ae1a4cfc840da39a09c58100e1e301ad6
+SHA512: df1b94e62f0751adff0c38f3526e99dd92600c5e7831d8081b77c089a078e64348c14ee9fab79e5b75acdfd831b6eac3aefc564d6d5e0975b83411e919eb2057
 Description: Lots Of Options To Enhance Your iOS Experience!
 Name: Uranium
 Author: FissionDev
