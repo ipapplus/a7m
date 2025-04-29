@@ -144,23 +144,6 @@ Author: BandarHelal
 
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm
-Version: 4.3-4+debug
-Section: Tweaks
-Maintainer: Bandar Alruwaili
-Installed-Size: 6292
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/arm/BHTwitter.4.3-4+debug.arm.deb
-Size: 1062116
-MD5sum: 5d74f7d248464b1986a02937d5732d9a
-SHA1: 1e01cab2f1c8bc031abded48b3bcd35d9a4cd301
-SHA256: 4a853f2d376d94c34e3ae01f0747cfa38e60f574dcf8c8530e678c00f3621108
-SHA512: 608c1effbce83ac08a40e494cb3cdb8d7f31c73d08c171eceaadedac91a60ab7c2f0e37b173591a793176a1b1ae8445a52ca6a17cea3d92088f92c35b9f4f623
-Description: Awesome tweak for Twitter
-Name: BHTwitter
-Author: Bandar Alruwaili
-
-Package: com.bandarhl.bhtwitter
-Architecture: iphoneos-arm
 Version: 4.4-1
 Section: Tweaks
 Maintainer: waruhachi
@@ -175,25 +158,6 @@ SHA512: 5115285d87ff4816f729bcf94a952b9348c971d20c9d17f7ad7de6ada9487b314549aa62
 Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
-
-Package: com.bandarhl.bhtwitter
-Architecture: iphoneos-arm
-Version: 4.3.2
-Section: Tweaks
-Maintainer: Bandar Alruwaili
-Installed-Size: 23864
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/arm/BHTwitter.NeoFreeBird.4.3.2.arm.deb
-Size: 7619480
-MD5sum: 82607acf1dd282f9263d20b012d94cdc
-SHA1: 2e1c538c214fa9112f00eb676731c3d3707a2ae0
-SHA256: 8f3734439235bb8ed30de5a93793a0ea02c21db1931b8aed97ce084302fa8ab9
-SHA512: 23515d2f86092b6f9aa02c9c619f83b42d1c2e12f3dbf406d31d55210955925c588930359484ede5c3a3043897dfc6b46ea864481a3025c4bdded20bda03127c
-Description: Awesome tweak for Twitter
-Name: BHTwitter NeoFreeBird
-Author: Bandar Alruwaili
-Icon: https://a7m.dev/file/a/BHTwitter/x.png
-Sileodepiction: https://a7m.dev/file/a/BHTwitter/a.json
 
 Package: netskao.blockappscreatealbum
 Architecture: iphoneos-arm
@@ -1110,42 +1074,6 @@ Author: BandarHelal
 
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm64
-Version: 4.3-1+debug
-Section: Tweaks
-Maintainer: Bandar Alruwaili
-Installed-Size: 23824
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/arm64/BHTwitter.4.3-1+debug.arm64.deb
-Size: 7608128
-MD5sum: d75d175e12d709ba148a1da1c6e3f85b
-SHA1: 5604ad74184261402eb49bbf1ca861a67ed2d768
-SHA256: b0588345f7ac6111b22c93543153a1b15902d30ca411ed70dd1b655f68022eef
-SHA512: e39a44d26f92e65739692303cdf15c4f5c45584e41e3878b6731c035ae1308a4a25d775d22abd9ff25aa558c35f1851ee64a00b2f25e65821909e6e001108d14
-Description: Awesome tweak for Twitter
-Name: BHTwitter
-Author: Bandar Alruwaili
-
-Package: com.bandarhl.bhtwitter
-Architecture: iphoneos-arm64
-Version: 4.3-5+debug
-Section: Tweaks
-Maintainer: Bandar Alruwaili
-Installed-Size: 6292
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/arm64/BHTwitter.4.3-5+debug.arm64.deb
-Size: 1066520
-MD5sum: d69640ec68ebf900c0fce66028856bc1
-SHA1: 2c43d6a8e844693fd575c78d097fa6e64b4e4626
-SHA256: 9b21e850c888f19e03cab7e155d28404965d4f9d8e13c31fc9cc621dc2bb5fde
-SHA512: 3e07258bbb13f57a0d6c44d15a2f3ebee81f17666aa98f1fe783c345f1faf0bdcc7f0ae5e9bd5f1ea68ed0ecfd11ae81caedcfd82f5da983dda8e41075ef401a
-Description: An awesome tweak for Twitter!
-Name: BHTwitter
-SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/BHTwitter.json
-Icon: https://i.imgur.com/6nCH3FE.jpeg
-Author: Bandar Alruwaili
-
-Package: com.bandarhl.bhtwitter
-Architecture: iphoneos-arm64
 Version: 4.4-1+debug
 Section: Tweaks
 Maintainer: waruhachi
@@ -1160,25 +1088,6 @@ SHA512: bfc3fa6d68401208bb7f6db666a37a4decf76d62fb924244a8c11569360ac5ad2c249364
 Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
-
-Package: com.bandarhl.bhtwitter
-Architecture: iphoneos-arm64
-Version: 4.3.2
-Section: Tweaks
-Maintainer: Bandar Alruwaili
-Installed-Size: 23864
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/arm64/BHTwitter.NeoFreeBird.4.3.2.arm64.deb
-Size: 7496280
-MD5sum: 76a64f976f74988f1d92a15e809a444d
-SHA1: 95b5641bf8d876b3e6994209063e217875889cc2
-SHA256: 59a380f145cdba0abed7c8fcd95bbf75209372f2ab92846fa2446a0bb75856fc
-SHA512: f0a6bda0ed0fc17bec6dbb5dba964878f443326e2786c66e0f3681be90e114e9af1561fc51cf4ca3e186fc2c76bc36ddd5f5f0ef6a64804ec44839dbc811f74f
-Description: Awesome tweak for Twitter
-Name: BHTwitter NeoFreeBird
-Author: Bandar Alruwaili
-Icon: https://a7m.dev/file/a/BHTwitter/x.png
-Sileodepiction: https://a7m.dev/file/a/BHTwitter/a.json
 
 Package: com.cpdigitaldarkroom.barmoji
 Architecture: iphoneos-arm64
@@ -4011,42 +3920,6 @@ Author: BandarHelal
 
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm64e
-Version: 4.3-1+debug
-Section: Tweaks
-Maintainer: Bandar Alruwaili
-Installed-Size: 23824
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/arm64e/BHTwitter.4.3-1+debug.arm64e.deb
-Size: 15095940
-MD5sum: 07d7296c4adefc4ac3d3c11fd19fb3e5
-SHA1: e890196a1479e22e7916607f9076881e2b441e86
-SHA256: 1032efdc08b96f4724134ecddb9c3c28b8c43c9991eb4a5af92305b2b3576ae3
-SHA512: 4ec1057d2b9b479d62ca624ce2d6dc701c42f87ad5c207ab075a374a37195eaf7987126435037a76b0d7785ac6048d8f3da53158b0d4958ea5fc599c851cfd71
-Description: Awesome tweak for Twitter
-Name: BHTwitter
-Author: Bandar Alruwaili
-
-Package: com.bandarhl.bhtwitter
-Architecture: iphoneos-arm64e
-Version: 4.3-5+debug
-Section: Tweaks
-Maintainer: Bandar Alruwaili
-Installed-Size: 6292
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/arm64e/BHTwitter.4.3-5+debug.arm64e.deb
-Size: 1033204
-MD5sum: 50865f9f75d1a2a651c430cee0f883cb
-SHA1: 733f7298ca6c15f955c5a0f59f99f65bb95ca324
-SHA256: a393a52267a785e1ae10531cdb19960e5e7e23a71d9b4a0f9a032d2506ebcb39
-SHA512: 0657eb02de348daa474ee4a6ed329d427a44bd36456699c78090ef18b1043d61933ba89001c8e36e2a17531d1d09576dfae59278e7c38dc3f5977067defe9828
-Description: Awesome tweak for Twitter
-Name: BHTwitter
-Author: Bandar Alruwaili
-
-Package: com.bandarhl.bhtwitter
-Architecture: iphoneos-arm64e
 Version: 4.4-1
 Section: Tweaks
 Maintainer: waruhachi
@@ -4062,26 +3935,6 @@ SHA512: e557858ab3bc1261b733e65dd5a6993048e743a547ce6632168bad11e22364e73c971eb5
 Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
-
-Package: com.bandarhl.bhtwitter
-Architecture: iphoneos-arm64e
-Version: 4.3.2
-Section: Tweaks
-Maintainer: Bandar Alruwaili
-Installed-Size: 23864
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/arm64e/BHTwitter.NeoFreeBird.4.3.2.arm64e.deb
-Size: 7502724
-MD5sum: 81ec54259181057907e32afd0b1849f4
-SHA1: 5436050954fd90ef36d1efd2ebb3d92df50b6229
-SHA256: 0c5424b2f13d671232b2065e38349754a69d55effb6867ede201e439f3b134af
-SHA512: ec1cdfc61b9330a57d2bafe15f3bfef606b6d24b89c7569759c9545dc5f0aceb3db3f2e50b1fcd8bdb61d3d66537e08655dfe0cad8e4d81770fdf86a33a2e237
-Description: Awesome tweak for Twitter
-Name: BHTwitter NeoFreeBird
-Author: Bandar Alruwaili
-Icon: https://a7m.dev/file/a/BHTwitter/x.png
-Sileodepiction: https://a7m.dev/file/a/BHTwitter/a.json
 
 Package: com.0xkuj.backgrounderaction15autostate
 Architecture: iphoneos-arm64e
