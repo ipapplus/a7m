@@ -424,6 +424,24 @@ Description: A tweak to Manage Delete
 Name: ManageDelete
 Author: Sniper @DNS_Sys
 
+Package: com.nscake.noscrollbargrabdelay
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 200
+Pre-Depends: firmware (>= 13.0)
+Depends: mobilesubstrate
+Filename: ./debs/arm/NoScrollbarGrabDelay.0.0.1.arm.deb
+Size: 3908
+MD5sum: 167736ae12b3499232c59b53666e403f
+SHA1: 4234721373058f25d70c7f6d90cbb300f27d3624
+SHA256: cc979c40467d5172d727b65de04213015c84b082b069296c3d065ebfa8f4d7ed
+SHA512: 8d8289f131ffe51f410252072ac3a78f4a11484baa7637b7b7cdde722de697460781d2a8b14b7b4b2f286e649a1c8848f821d5a3d46ebad5bf23b2f1c67dc881
+Description: Removes the delay when trying to drag a scroll bar.
+Name: NoScrollbarGrabDelay
+Author: Tanner Bennett <thepantsthief@me.com>
+
 Package: com.f0u4d.onlinenotify
 Architecture: iphoneos-arm
 Version: 3.4.13
@@ -2294,6 +2312,24 @@ Name: NoSBReload
 Depiction: https://repo.alexia.lol/depictions/net.cadoth.nosbreload
 SileoDepiction: https://repo.alexia.lol/sileo-depictions/net.cadoth.nosbreload
 Author: alexia <me@alexia.lol>
+
+Package: com.nscake.noscrollbargrabdelay
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 200
+Pre-Depends: firmware (>= 13.0)
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debs/arm64/NoScrollbarGrabDelay.0.0.1.arm64.deb
+Size: 3648
+MD5sum: f039acfc379f5ddf6eba4239b680f08a
+SHA1: 256b5084122c882801f5c4dfced44d76e5ad5b2f
+SHA256: 932097c3000bccd9bcc6b90a2fd2fae45bdffcdac55cc1b39f87a1c6f88b516f
+SHA512: 05cbab7b73cbb3f4bf7b59a0db33ed593c2cfe1b2780be0a6ac32818d3521d7072419ea7dd5f90dd9a5870d9b87bcf9218d8f795151f9c4f88bf8d50ece25f6d
+Description: Removes the delay when trying to drag a scroll bar.
+Name: NoScrollbarGrabDelay
+Author: Tanner Bennett <thepantsthief@me.com>
 
 Package: com.wrp1002.nosettingsbadge
 Architecture: iphoneos-arm64
@@ -6248,6 +6284,24 @@ Name: NoSBReload
 Depiction: https://repo.alexia.lol/depictions/net.cadoth.nosbreload
 SileoDepiction: https://repo.alexia.lol/sileo-depictions/net.cadoth.nosbreload
 Author: alexia <me@alexia.lol>
+
+Package: com.nscake.noscrollbargrabdelay
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 200
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 13.0)
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debs/arm64e/NoScrollbarGrabDelay.0.0.1.arm64e.deb
+Size: 4364
+MD5sum: c249fcac44b9e276b490a04c3f58a751
+SHA1: 1effbdd2e480e5f571e0bc17b5e7698fce1d7489
+SHA256: 85b60a1dd280e72bbce4eb5b406a7327e402c01f71e95e1b202c2dee3ff40af4
+SHA512: 838f16cc1d3ea2dc696e182b20d0c909da61f902f09596b16100eae12c31058512e5c54656e2fd8ee64dcbcb06f9dd4ec54104ba3d1c9d986c8490c9d7d869af
+Description: Removes the delay when trying to drag a scroll bar.
+Name: NoScrollbarGrabDelay
+Author: Tanner Bennett <thepantsthief@me.com>
 
 Package: com.wrp1002.nosettingsbadge
 Architecture: iphoneos-arm64e
