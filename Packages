@@ -353,6 +353,23 @@ SileoDepiction: Jailbreak development tool for XCode
 Depiction: Jailbreak development tool for XCode
 Author: chaoge
 
+Package: com.dvntm.lsnoswipe
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/arm/LSNoSwipe.0.0.1.arm.deb
+Size: 3948
+MD5sum: ef821dcbfa6c31393a73d88fda2deab4
+SHA1: a386184b3bd87868f53e77ca0fd4645ed78ff2a9
+SHA256: 7e5e2db7e71ebceff63de1e1bb882c4126088b1b09fdbca3ea4fc39ed8c67d61
+SHA512: 1a5deb602e1cb6dba1c1f237aba22d6de047b7ef36c4b8cae9a42861a2b38184a7bcd6231561fb30980ed1dff1ce7bbbec13468e064ca7862d8c87779f25a67a
+Description: Disables swipe to open cam on the lock screen
+Name: LSNoSwipe
+Author: dvntm
+
 Package: com.dvntm.lsquickactions
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -2054,6 +2071,23 @@ SHA512: 755d52140c868c6b5f92d98751f158b29d0c0f26122f9c47a068a57e7516dc47ace0f22b
 Description: Clipboard manager for iOS.
 Name: Kayoko
 Author: Alexandra Aurora Göttlicher
+
+Package: com.dvntm.lsnoswipe
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/arm64/LSNoSwipe.0.0.1.arm64.deb
+Size: 4032
+MD5sum: 63bc1d7678711397ab2e0783e1802a62
+SHA1: e3f2312997b7e8dc90700fb2da6a886dfd1e321c
+SHA256: 0cf36b3a9cbbb6626132ef0319c109f7f98e20df9a0633e2c9e5054ccdb849e2
+SHA512: 36e479feb4b51228b94004327ee75034bf2d68ef337b4307092a8a961f03328de9fc739765be79538533377cc6d2b806b2620ad58bff7e8c50b855086fa87354
+Description: Disables swipe to open cam on the lock screen
+Name: LSNoSwipe
+Author: dvntm
 
 Package: com.dvntm.lsquickactions
 Architecture: iphoneos-arm64
@@ -5777,6 +5811,24 @@ Description: Lightweight crash reporter
 Name: KrashKop
 Author: FoxfortMobile
 Icon: file:///Applications/KrashKopApp.app/AppIcon60x60@2x.png
+
+Package: com.dvntm.lsnoswipe
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/arm64e/LSNoSwipe.0.0.1.arm64e.deb
+Size: 4944
+MD5sum: 21c95349bebac4cfabe3b248adad20c9
+SHA1: 3e9d5c54bfd1dad478cdf9b14391be5aac2a3e7f
+SHA256: 33db6ff261443a8d433939788aeba7349169ce760fae89e30a82ce05b9907814
+SHA512: 693ae19df2601025404ab8aacd97f7cee0975e564557d31c97dbaf547a7b3b254b1197e7a675fa326de0885a95d4f2b5d38de3917900e39085e57724491be7d4
+Description: Disables swipe to open cam on the lock screen
+Name: LSNoSwipe
+Author: dvntm
 
 Package: com.dvntm.lsquickactions
 Architecture: iphoneos-arm64e
