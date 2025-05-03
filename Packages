@@ -3916,6 +3916,27 @@ Name: AutoRepoManager
 Icon: https://i.imgur.com/ZKCJQvf.jpeg
 Author: ipapplus
 
+Package: com.snail.autovpn.roothide
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 944
+Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,com.opa334.altlist
+Conflicts: com.snail.autovpn.global
+Filename: ./debs/arm64e/AutoVPN.1.0.2.arm64e.deb
+Size: 225248
+MD5sum: 9de7776106a43ea5ad0782208a7c6b36
+SHA1: 79b55112830f5636ae7960157718cd7a45ee5123
+SHA256: d04b3af3abe8b2ba1f2dd05a304f2a1ffa6844779f8aee147066f0b751cec947
+SHA512: 827f91c6966804a04b9f1b0abc73ef9aac650e912be98cbf25ac14f4bf25e21b779c46f44ab5770f0a188a15d65bc63761f8b4c6b54b5cc12abaad5ff2e2d555
+Description: Automatically enable or disable the vpn according to the situation, and enjoy smooth browsing experience in the app. 根据特定场景自动开启/关闭代理连接，畅享APP丝滑浏览体验。
+Name: AutoVPN
+Author: Snail <mu514983786@gmail.com>
+Depiction: https://havoc.app/depiction/autovpnvpn
+SileoDepiction: https://havoc.app/package/autovpnvpn/depiction.json
+Icon: https://media.havoc.app/680502d16feaf12f0f4b88e6
+
 Package: com.bandarhl.bhinsta
 Architecture: iphoneos-arm64e
 Version: 1.0.3
