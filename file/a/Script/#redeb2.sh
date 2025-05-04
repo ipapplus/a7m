@@ -1,6 +1,6 @@
 #!/bin/bash
 
-debs_folder="old"
+debs_folder="."
 extracted_folder="tmp"
 output_folder="new"
 

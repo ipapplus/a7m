@@ -514,6 +514,28 @@ Description: An awesome MobileSubstrate tweak!
 Name: PhotosPlus
 Author: nowesr1
 
+Package: com.rpetrich.powercuff
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 188
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/arm/Powercuff.1.4.arm.deb
+Size: 12652
+MD5sum: 68335d8d0bbe6dd2e8436ba192934e32
+SHA1: c83404bbe3b3c22fb0535365a2e2aa2bed5bf30b
+SHA256: 041e88c15383b8826a0043e2e79e6e05275086492968436bf6eed2edc0008d66
+SHA512: 57ea630d64bcea470581abbaa1f5cf0f127e43f98c6497b8acc1a77300eb4cd0dbcf1cbadde02f7ab31814c3ab7ac1a6d625b88a1cd2d86428f7420dd97840af
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Name: Powercuff
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+
 Package: com.dvntm.ratebegone
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -2533,6 +2555,28 @@ MD5sum: 212bd7754783c37aaa26be3b74a51694
 SHA1: 024e1f92927fa6484a5880cc0b3ba739962a3663
 SHA256: d8a4fc69f1923026de5282b9af9d9a5944731dcd35e67fb22e211e686b297222
 SHA512: 4b79d4b60ec49dc3d022f0c8f8d9b41f0d82f4b0e9101dfac515213892afdea03376c0ce4db274dfea7fb53d26fbc7388631750296d933b04c1c7bc18facab8f
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Name: Powercuff
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+
+Package: com.rpetrich.powercuff
+Architecture: iphoneos-arm64
+Version: 1.4
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 188
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/arm64/Powercuff.1.4.arm64.deb
+Size: 12752
+MD5sum: a188958d31afe2560da6b3730ccb0619
+SHA1: 62a12574da53f21afed831b2cc71348c397d1f1a
+SHA256: 84c357566874c60995fcbef58aa34d70bb8babe727c28853969b3eaa05cba139
+SHA512: 8fc0ec55d9a8d3c7a4078015189f335c47046ff66cbda74766f370d356e95545c732362936a098b7e1d8b00e8bf4fa58c869ae302cb77d640b23f92e0d5df8d8
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states
 Tag: purpose::extension
@@ -6798,6 +6842,28 @@ MD5sum: be009edba122e6064b631f187beeb3bc
 SHA1: 7dd9d2b6397de443a0b8e7f2ef164673e535884a
 SHA256: 6dc30f677f5e6b59e5390cc04f29a169b99f9877f83c46bdfdeb6d96ca7543cf
 SHA512: 848c547b4cec05439c165ed7dc83659cc634ff8366eb9e511da0967db39cad8f7c2dbae685a21b3e0a1db1477a93551cd2d08139a0143ecdf739cd9d38e1d8c3
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Name: Powercuff
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+
+Package: com.rpetrich.powercuff
+Architecture: iphoneos-arm64e
+Version: 1.4
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 188
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/arm64e/Powercuff.1.4.arm64e.deb
+Size: 12668
+MD5sum: b6fdb46641dfd243afc5bcbe2a222007
+SHA1: 65a59ff98203ada1088be424ea9ba3948c3115bd
+SHA256: d2e30da4cf2a5bf68ea7d7d063e12e3a6f835896b11a33a25d794c106a222327
+SHA512: f12407ce3057a13c88aa2ff9c8993839d49c414e9f6df745a1fadeee4aebd2bf6c982860efd0f110763349894361123385f6d211935b9e364631bd3865fc2641
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states
 Tag: purpose::extension
