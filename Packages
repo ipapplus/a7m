@@ -2600,6 +2600,25 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/RateBeGone/main/sources/depiction.json
 
+Package: com.dvntm.rma
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 408
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/ReachMyAbility.1.0.arm64.deb
+Size: 26476
+MD5sum: 644d57ccd2b9b58ba1c1db4db14c467c
+SHA1: 2680faf2d78471f5999c1e90d7b6259368e2ed1a
+SHA256: e454d878e3e3c761c1b530c197e3226f594e08a4804eab726e53cce5034cc515
+SHA512: f575d2018e145bf8cbe34a9b5c3b9620a7d750d009cc1dd5ba8f13d3e69ef272b7674127df7aeef3afcd9d6e63718bd7c915a912837a620831e0616c9d17ff8a
+Description: A Lightweight Reachability Manager
+Name: ReachMyAbility
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/ReachMyAbility/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/ReachMyAbility/main/Resources/depiction.json
+
 Package: com.nan.realitytmp
 Architecture: iphoneos-arm64
 Version: 0.2.2
@@ -6846,6 +6865,25 @@ Name: RateBeGone
 Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/RateBeGone/main/sources/depiction.json
+
+Package: com.dvntm.rma
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 408
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64e/ReachMyAbility.1.0.arm64e.deb
+Size: 25232
+MD5sum: 1c749f726abdba29d6fb149835ad07e0
+SHA1: 10210f2fc9671740e1d79205031476c38f25b64c
+SHA256: aedca89b163fa0e261cb0704343f48abeb540558bd470f9fdc3feabee4ec7402
+SHA512: 6cf5d4bf4f3877dc525e5952b9e161616d3ded85e236f8442f8f73af79bde9f021cc1153e90c069e90482e30311ce5258b07f3fad9301b13520262489f2fe424
+Description: A Lightweight Reachability Manager
+Name: ReachMyAbility
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/ReachMyAbility/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/ReachMyAbility/main/Resources/depiction.json
 
 Package: com.nan.realitytmp
 Architecture: iphoneos-arm64e
