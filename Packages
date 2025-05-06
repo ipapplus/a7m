@@ -770,6 +770,22 @@ Author: nowesr1
 Icon: https://raw.githubusercontent.com/nowesr1/WhatsApp-Location-Spoofer/refs/heads/main/Sileo/icon.png
 SileoDepiction: https://raw.githubusercontent.com/nowesr1/WhatsApp-Location-Spoofer/main/Sileo/depiction.json
 
+Package: com.mhsternice.wasendfix
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Mhster_Nice
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm/WASendFix.0.0.1.arm.deb
+Size: 8372
+MD5sum: bc8b92fe5b5c82853d7c2c56b6a2a953
+SHA1: 939e2db6eb8a9d3c8acd11ec6d172d93b1de8dc9
+SHA256: f44062e9299d34012fb886ee800ede345b7729edb2f573484a96b98836000895
+SHA512: ed7a0f888ac57f39bb4c54c18be974934b2ce8817b3af12303d1342d7e52ebc471831d5e0c0921c0002ebe42222d0a43a9ce64660a99ed1da63711a3cca28bef
+Description: Fix WhatsApp for iOS 14.x
+Name: WASendFix
+Author: Mhster_Nice
+
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm
 Version: 1.2.60
@@ -3302,6 +3318,22 @@ Description: Lots Of Options To Enhance Your iOS Experience!
 Name: Uranium
 Author: FissionDev
 Icon: https://andrewrepo.github.io/Depictions/Icons/Uraniumicon@3x.png
+
+Package: com.mhsternice.wasendfix
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Mhster_Nice
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/WASendFix.0.0.1.arm64.deb
+Size: 5276
+MD5sum: fe46a29aac3adc6f3f29d2805cf8dfaf
+SHA1: 6a2d54a37713dbec6ad54dc5605584b11d0b3fc2
+SHA256: 8b6c3ece0fc3a5a8b9c4870ed5b799e064706c0e4f152779024552564371189f
+SHA512: 52882209e241c25ed402da35b5ff712ddd7ce580fd0c40f05b4ba0838b29658674af6f98f1c676f17c56c096f702134c77382197f3429521af7871006366e88d
+Description: Fix WhatsApp for iOS 14.x
+Name: WASendFix
+Author: Mhster_Nice
 
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64
