@@ -73,6 +73,28 @@ Name: AutoRepoManager
 Icon: https://i.imgur.com/ZKCJQvf.jpeg
 Author: ipapplus
 
+Package: com.macthemes.axolotl
+Architecture: iphoneos-arm
+Version: 2504
+Section: Tweaks
+Maintainer: Aeneon <me@macthemes.me>
+Installed-Size: 523
+Pre-Depends: mobilesubstrate, preferenceloader | com.artikus.preferenceloader
+Depends: firmware (>= 12)
+Conflicts: com.0xkuj.blockwaupdates, com.ifilipis.fckzck
+Filename: ./debs/arm/Axolotl.for.WhatsApp.2504.arm.deb
+Size: 239216
+MD5sum: 59626bcb3a470c1e200cff702d59a803
+SHA1: 068a3967f5843d58ffa114c5be1f8512c7eea22c
+SHA256: 22958fa0e2afe73bbdf50a4c2cf05dd22d765297795def3b5cf76c00c497e349
+SHA512: a8f50c5c669ed8afe792f9fa1e613bd18f1215567a75f77f7ab14c31ff26a3d79d8f08a2233384cf0fb6ff72725eabf0a74e34050ce0f067f2fe8c8261373ef6
+Description: Blocks WhatsApp Update Notifications …
+Tag: compatible::ios12, compatible::ios13, compatible::ios14
+Name: Axolotl for WhatsApp
+Author: 0xkuj, ifilipis & MacThemes <me@macthemes.me>
+Icon: file:///Library/PreferenceBundles/AxolotlPrefs.bundle/axolotl.png
+Depiction: http://macthemes.me/package.php?id=com.macthemes.axolotl
+
 Package: com.bandarhl.bhinsta
 Architecture: iphoneos-arm
 Version: 1.0.3
@@ -1073,6 +1095,28 @@ Description: is a collection of scripts for easily managing repositories through
 Name: AutoRepoManager
 Icon: https://i.imgur.com/ZKCJQvf.jpeg
 Author: ipapplus
+
+Package: com.macthemes.axolotl
+Architecture: iphoneos-arm64
+Version: 2504
+Section: Tweaks
+Maintainer: Aeneon <me@macthemes.me>
+Installed-Size: 589
+Pre-Depends: mobilesubstrate, preferenceloader | com.artikus.preferenceloader
+Depends: firmware (>= 12)
+Conflicts: com.0xkuj.blockwaupdates, com.ifilipis.fckzck
+Filename: ./debs/arm64/Axolotl.for.WhatsApp.2504.arm64.deb
+Size: 238616
+MD5sum: 930dc018efc3d7d5b4b9b685005f8243
+SHA1: 2d4e2f8657e98ffd2708ae3779a44c422b9d0dfd
+SHA256: 1c682d042fe85b94e8ec8bceee1d0e8f589303f82de66a0d2c8c3bea1f1f1dd2
+SHA512: 7fc97160064ec1187b4aade4dfeb524576640fb6ac79353c2de5917c54a63bffdf541d5b011520d4bdb5eb806d0c5ee46333ea529d65568b609a28e89ee8b02a
+Description: Blocks WhatsApp Update Notifications …
+Tag: compatible::ios15
+Name: Axolotl for WhatsApp
+Author: 0xkuj, ifilipis & MacThemes <me@macthemes.me>
+Icon: file:///Library/PreferenceBundles/AxolotlPrefs.bundle/axolotl.png
+Depiction: http://macthemes.me/package.php?id=com.macthemes.axolotl
 
 Package: com.bandarhl.bhinsta
 Architecture: iphoneos-arm64
@@ -4103,6 +4147,28 @@ Author: Snail <mu514983786@gmail.com>
 Depiction: https://havoc.app/depiction/autovpnvpn
 SileoDepiction: https://havoc.app/package/autovpnvpn/depiction.json
 Icon: https://media.havoc.app/680502d16feaf12f0f4b88e6
+
+Package: com.macthemes.axolotl
+Architecture: iphoneos-arm64e
+Version: 2504
+Section: Tweaks
+Maintainer: Aeneon <me@macthemes.me>
+Installed-Size: 589
+Pre-Depends: rootless-compat(>= 0.9), mobilesubstrate, preferenceloader | com.artikus.preferenceloader
+Depends: firmware (>= 12)
+Conflicts: com.0xkuj.blockwaupdates, com.ifilipis.fckzck
+Filename: ./debs/arm64e/Axolotl.for.WhatsApp.2504.arm64e.deb
+Size: 241220
+MD5sum: 75706c944ca53b52a76577e5d2bbc167
+SHA1: c59ec8880d6e8f40822e16ea7638fd777f23f1a9
+SHA256: 224e9d33d36efbf60a793b8a310da56b5eef753e09b88730ab041bb8301ea5eb
+SHA512: f23292f2b58e2f77a25073c5fe62e383c70f33e226adbc33ae5ce067ae3f98a1fb2bb6bb3f8e775443aeaa7a4d8a8bc2b74a00bba2a1e6fe61d48be97a08a171
+Description: Blocks WhatsApp Update Notifications …
+Tag: compatible::ios15
+Name: Axolotl for WhatsApp
+Author: 0xkuj, ifilipis & MacThemes <me@macthemes.me>
+Icon: file:///Library/PreferenceBundles/AxolotlPrefs.bundle/axolotl.png
+Depiction: http://macthemes.me/package.php?id=com.macthemes.axolotl
 
 Package: com.bandarhl.bhinsta
 Architecture: iphoneos-arm64e
