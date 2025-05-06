@@ -778,11 +778,11 @@ Maintainer: Mhster_Nice
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/arm/WASendFix.0.0.1.arm.deb
 Size: 8372
-MD5sum: bc8b92fe5b5c82853d7c2c56b6a2a953
-SHA1: 939e2db6eb8a9d3c8acd11ec6d172d93b1de8dc9
-SHA256: f44062e9299d34012fb886ee800ede345b7729edb2f573484a96b98836000895
-SHA512: ed7a0f888ac57f39bb4c54c18be974934b2ce8817b3af12303d1342d7e52ebc471831d5e0c0921c0002ebe42222d0a43a9ce64660a99ed1da63711a3cca28bef
-Description: Fix WhatsApp for iOS 14.x
+MD5sum: 712200fcd64daacb518fda3a6f369265
+SHA1: b0d504dc8cd9c2b01399b772b91b52092068005c
+SHA256: 7f8b27bec4d151daf16691afd7e63256561372270f67411f770a3d252fa4995c
+SHA512: 027087458f6365d11adced0fed55f230b1844aad308e8a93a52ca6b17076fc1790a321bb0bb7264eb43aaf9292e73b7b579e9c744d6d054cd47a69f5d3be90cf
+Description: Fix WhatsApp for iOS 14 - 15
 Name: WASendFix
 Author: Mhster_Nice
 
@@ -3326,12 +3326,12 @@ Section: Tweaks
 Maintainer: Mhster_Nice
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/arm64/WASendFix.0.0.1.arm64.deb
-Size: 5276
-MD5sum: fe46a29aac3adc6f3f29d2805cf8dfaf
-SHA1: 6a2d54a37713dbec6ad54dc5605584b11d0b3fc2
-SHA256: 8b6c3ece0fc3a5a8b9c4870ed5b799e064706c0e4f152779024552564371189f
-SHA512: 52882209e241c25ed402da35b5ff712ddd7ce580fd0c40f05b4ba0838b29658674af6f98f1c676f17c56c096f702134c77382197f3429521af7871006366e88d
-Description: Fix WhatsApp for iOS 14.x
+Size: 5272
+MD5sum: bf0f85e90ce04f18f203fc64827bf39a
+SHA1: 7cc493f52083a29ff40ddc92a584e5a7ba4a5832
+SHA256: 8f88830818aa2da87ab5b097aed4d7508c824f67e2fdbbededccc1e409c451a2
+SHA512: b2a300a1eb7a78a9986f923b93b076c9433dc60c238b9ee5da5d791ad67ea9ea261ac2e3318846c41a6aa8e8884ba449271b0ea25116c356a9b583b54a8b3313
+Description: Fix WhatsApp for iOS 14 - 15
 Name: WASendFix
 Author: Mhster_Nice
 
