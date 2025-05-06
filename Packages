@@ -3453,6 +3453,23 @@ Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
+Package: com.n3d1117.xnotforme
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: n3d1117
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/arm64/XNotForMe.1.0.arm64.deb
+Size: 4204
+MD5sum: 2f287ba891cb37acb59cb3ab055972d2
+SHA1: f88af2217c0aa7c8d2baf75c30516f51a26f7577
+SHA256: ea29de7e7ee048c9a915dc37f71155639ae01afc3e85183c24c7d24664c46c80
+SHA512: ad81cc6a76887fee7325b9d7b0dbcc6554c9187296bf57fe0169b605d382693b14332fbbe07abf68b49db7af1430b67fafdb9579ff2b0653b7e6b16e375a9ea6
+Description: iOS tweak to completely remove the "For You" tab in X/Twitter fixd by @ipapplus
+Name: XNotForMe
+Author: n3d1117
+
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm64
 Version: 5.2b1
@@ -8815,6 +8832,23 @@ SHA512: cfd741c69e2adf6edb51655beaa5fd6ec439ca890534b7c182918b0d4920d3e31d07ad5f
 Description: Turns the dock into a customizable outline
 Name: WireDock
 Author: Christian Kosman & CydiaGeek <lucaluca86@aol.com>
+
+Package: com.n3d1117.xnotforme
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: n3d1117
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/XNotForMe.1.0.arm64e.deb
+Size: 4128
+MD5sum: e0f263ef6c2fbf5e7f27611f668c7532
+SHA1: 31c38c167cf6c09b24d44c9d63dcec4095eff970
+SHA256: 7f843d097f78c1de173070217ee22690b5261f49751303cf9435070d5e131196
+SHA512: dd2be7d193854889b1e0e380a46830180c37143428806ce4ed8c227954ef109552525bce6fa8ae5a5d6aa6e610596244307fcca7f335dd69c349d1a3cc95dcbd
+Description: iOS tweak to completely remove the "For You" tab in X/Twitter fixd by @ipapplus
+Name: XNotForMe
+Author: n3d1117
 
 Package: com.ps.ytdarker
 Architecture: iphoneos-arm64e
