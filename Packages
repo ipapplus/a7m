@@ -827,6 +827,22 @@ Description: Fix WhatsApp for iOS 14 - 15
 Name: WASendFix
 Author: Mhster_Nice
 
+Package: com.mhsternice.wasendfix
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Mhster_Nice
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm/WASendFix.0.0.2.arm.deb
+Size: 10532
+MD5sum: 85fc391b644fcfe2bfca3935121f12cd
+SHA1: 62b9e1ac37f4bba59e8fe416b53e6a738e29f89a
+SHA256: 990d6bad635327414b014a66a611aa9ae02092bd9b30f535c67fc8656d2bc859
+SHA512: c98dc56bd29f7e41138bb24fbe120645ba0bc2858b54a6f0c78419791e8d5c31a0938ffb283d54b4e384f76f8ea1ac3b493299cd0c45a188e20336ee08eed5a2
+Description: Fix WhatsApp for iOS 14.x to 15.0.2
+Name: WASendFix
+Author: Mhster_Nice
+
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm
 Version: 1.2.60
@@ -3414,6 +3430,22 @@ SHA1: 7cc493f52083a29ff40ddc92a584e5a7ba4a5832
 SHA256: 8f88830818aa2da87ab5b097aed4d7508c824f67e2fdbbededccc1e409c451a2
 SHA512: b2a300a1eb7a78a9986f923b93b076c9433dc60c238b9ee5da5d791ad67ea9ea261ac2e3318846c41a6aa8e8884ba449271b0ea25116c356a9b583b54a8b3313
 Description: Fix WhatsApp for iOS 14 - 15
+Name: WASendFix
+Author: Mhster_Nice
+
+Package: com.mhsternice.wasendfix
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Mhster_Nice
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/WASendFix.0.0.2.arm64.deb
+Size: 7416
+MD5sum: 684e7841ec74194a5b77073350032625
+SHA1: 68c8c52b2671160da0829b3c543aec203ae354a8
+SHA256: e2fc0bd0e5f68f854a227385e79949b4b8294a3324329ce73e834cf71064bcc4
+SHA512: 9484db69b32ed89742e1fac40f9cb0af0364e9252b609f37e8f54c7d170ebd4b34054b9ad58872bbed78276eb0e266ab2eaef0a11a1de0648394d335fd334fd0
+Description: Fix WhatsApp for iOS 14.x to 15.0.2
 Name: WASendFix
 Author: Mhster_Nice
 
@@ -8672,6 +8704,23 @@ SileoDepiction: https://raw.githubusercontent.com/nowesr1/WhatsApp-Location-Spoo
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: nowesr1
 Icon: https://raw.githubusercontent.com/nowesr1/WhatsApp-Location-Spoofer/refs/heads/main/Sileo/icon.png
+
+Package: com.mhsternice.wasendfix
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Mhster_Nice
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64e/WASendFix.0.0.2.arm64e.deb
+Size: 7964
+MD5sum: 8e8812ef2fd0c80532ee6acd9786325a
+SHA1: 214fac5492eda39db1e00222748e30cfb8d76b5c
+SHA256: 5eea8fae1cbdbeeda6001b02b7c57d78b3a9d7d6ac51b165edf3aad904494eb5
+SHA512: 35ae90dea5c797c3010556b5ef005e3ec0045861e9541ce6979e954414090eb6419e6f78a69e1c94bbfa85c2bb60a8646a3d7b0140b806a028146f85a37f9a25
+Description: Fix WhatsApp for iOS 14.x to 15.0.2
+Name: WASendFix
+Author: Mhster_Nice
 
 Package: com.p2kdev.waqt
 Architecture: iphoneos-arm64e
