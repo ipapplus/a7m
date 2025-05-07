@@ -4508,6 +4508,24 @@ Description: Block applications from creating their own albums
 Name: BlockAppsCreateAlbum
 Author: Netskao
 
+Package: com.den.blur
+Architecture: iphoneos-arm64e
+Version: 1.0-8
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 176
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64e/Blurify6.1.0-8.arm64e.deb
+Size: 11296
+MD5sum: 4bfe94c9a172e272ea879f768dc8f68b
+SHA1: a3172f2a6187dba7a70ac2550cc23ee3414dbf26
+SHA256: 856f05cde7d01c418ebd6d32ab49d51255f833f456b25729fa7fb918f171ce7b
+SHA512: 8df127aa568d1c60a46d5ea0ba9ba9b019d36f864a9679198a3d7238f0648e022aefe9a3596971e8ab1f372e44d9981c46539dd9463520d33dcfe75d8938e473
+Description: Hide private photos in your library. Unlock with Face ID, Touch ID, or passcode
+Name: Blurify6
+Author: MrDeNsor
+
 Package: com.nightwind.boldersreborn
 Architecture: iphoneos-arm64e
 Version: 1.1.2
