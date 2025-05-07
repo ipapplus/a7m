@@ -4197,6 +4197,27 @@ Depiction: https://havoc.app/depiction/autovpnvpn
 SileoDepiction: https://havoc.app/package/autovpnvpn/depiction.json
 Icon: https://media.havoc.app/680502d16feaf12f0f4b88e6
 
+Package: com.snail.autovpn.roothide
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 964
+Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,com.opa334.altlist
+Conflicts: com.snail.autovpn.global
+Filename: ./debs/arm64e/AutoVPN.1.0.3.arm64e.deb
+Size: 240524
+MD5sum: 7e7e952fa46f2dd74a83ba8eeceb8a97
+SHA1: f70e4379ddf5d8cef2b0221720f6aaaa970e3252
+SHA256: 8bb8ead92bcbae133f2648ba6b1b793721652fe5860e36bfd427abd2415765e0
+SHA512: c2190799c0f8a69704dfb82626723788788d10ca9934b8cd82c236398aa054fa610975b1426fc250a5479dd741b56526785f72725f09b28b72a6f736e3c426ad
+Description: Automatically enable or disable the vpn according to the situation, and enjoy smooth browsing experience in the app.
+Name: AutoVPN
+Author: Snail <mu514983786@gmail.com>
+Depiction: https://havoc.app/depiction/autovpnvpn
+SileoDepiction: https://havoc.app/package/autovpnvpn/depiction.json
+Icon: https://media.havoc.app/680502d16feaf12f0f4b88e6
+
 Package: com.macthemes.axolotl
 Architecture: iphoneos-arm64e
 Version: 2504
