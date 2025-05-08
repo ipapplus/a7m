@@ -809,6 +809,23 @@ Description: spoofing version 25.14.7
 Name: WALegacy
 Author: dvntm
 
+Package: com.dvntm.walegacy
+Architecture: iphoneos-arm
+Version: 0.0.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm/WALegacy.0.0.3.arm.deb
+Size: 4568
+MD5sum: d987436a77d4d92f061af53dc2da9e34
+SHA1: 0d068586b291970153a992c4759a6b07e72981b9
+SHA256: 955116ec1e1a4d863fe8000c4e83eaea8d22a8a0c89ad21e9084a943c5eb3264
+SHA512: 1c603cc4fb75abe9ddca9d0defbcf49b96ddd8809f9a7ae1c5b9dfc7885abb215fad9cf87cb949db3105e95571a2aadcbc1a3277d4d2dfb69c53f8fa7f6c8f9d
+Description: Provides legacy WhatsApp version support by spoofing as up-to-date
+Name: WALegacy
+Author: dvntm
+
 Package: twitter.nowesr1.location-spoofer
 Architecture: iphoneos-arm
 Version: 0.0.2
@@ -3448,6 +3465,23 @@ SHA1: 1e54331281b286ed240f907f4aa64675ac79b516
 SHA256: 673f1e744d74c858ab33b6c7113ea28d77e9d6f1cb6990a4c73d5567986ad343
 SHA512: 9cfe4f6a932d0126dbbabc8dc5e5d4518f3874e1932eed79fb868589489f83d0e29a928b9324e2588a7553cda22c573819839c26ad1bd9dcfd0ca6b5af24734d
 Description: spoofing version 25.14.7
+Name: WALegacy
+Author: dvntm
+
+Package: com.dvntm.walegacy
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/WALegacy.0.0.3.arm64.deb
+Size: 4652
+MD5sum: 7e41ec6d5967dda6d9f9e01e66f66f10
+SHA1: b9c9cb3abcc6aef33980924aca606b3801acef8a
+SHA256: 195e3ef0c39daa75e6d06fe288c50357406eff8854577c65f440aa49e7fa166d
+SHA512: 1462f2394ad05b2d9b9902f957b58ce6f74e5a43b25f56f39ceaa4d333def780ebd976fdb1d9966732e983642cfb2072ca29f7b2fa0d2ad2eab6583ac9e2ab14
+Description: Provides legacy WhatsApp version support by spoofing as up-to-date
 Name: WALegacy
 Author: dvntm
 
@@ -8768,6 +8802,23 @@ SHA1: 77fce3f19eda86f273549147615cfcd746a3d188
 SHA256: 9056c2895a94d7bdb9ec043afbeb618d8b1c937f834823e32950004ab171cc1a
 SHA512: 52437b7fbd04cbcb09bb73d4b496705810e55e93a2183b7ae809f1c8b5ae39a42c8083c6bc14032f874b342f052fb4c49c788469d3f7c8c2f43c84603a1cb53e
 Description: spoofing version 25.14.7
+Name: WALegacy
+Author: dvntm
+
+Package: com.dvntm.walegacy
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64e/WALegacy.0.0.3.arm64e.deb
+Size: 4592
+MD5sum: 3e1472c3662ac2caa1cc8ce8369fb5ce
+SHA1: 4439533e34fcad33c54bca006eea4686c4fc9695
+SHA256: dd1d56ca06b780e7dfc175649ae2b283d878f8b49730faca354d4d1e3b3be15c
+SHA512: 19e9c7d585a35a54bcd01b05cc13765eae474060bed5de4aab566770ede46aede412116ad732b28d82d2642f943e9b55739fceeda7447e01f16b888dc9cbb6dc
+Description: Provides legacy WhatsApp version support by spoofing as up-to-date
 Name: WALegacy
 Author: dvntm
 
