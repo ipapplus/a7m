@@ -792,23 +792,6 @@ Author: nowesr1
 Icon: https://raw.githubusercontent.com/nowesr1/WhatsApp-Call-Blocker/refs/heads/main/Sileo/icon.png
 SileoDepiction: https://raw.githubusercontent.com/nowesr1/WhatsApp-Call-Blocker/main/Sileo/depiction.json
 
-Package: com.dvntm.walegacy
-Architecture: iphoneos-arm
-Version: 0.0.1
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/arm/WALegacy.0.0.1.arm.deb
-Size: 4500
-MD5sum: 15e5e51e6fe4a8ce6ab4c2940c15f925
-SHA1: 12aec46afbe14e8a0fabb70c0f2f87cdb9cc4a99
-SHA256: 3275e2d9f9498e9c6fc3615bd21090a29256956b938917c79969e166dbb23e06
-SHA512: 39b4e19155d438250967c7f1173602f4555c4424b7bde733dc8873fb8b551bdfc26678bc7ab88b323d1b3097a1883c89ceed50f3254319824ebfa4ab93910765
-Description: WALegacy
-Name: WALegacy
-Author: dvntm
-
 Package: twitter.nowesr1.location-spoofer
 Architecture: iphoneos-arm
 Version: 0.0.2
@@ -3433,23 +3416,6 @@ Description: Lots Of Options To Enhance Your iOS Experience!
 Name: Uranium
 Author: FissionDev
 Icon: https://andrewrepo.github.io/Depictions/Icons/Uraniumicon@3x.png
-
-Package: com.dvntm.walegacy
-Architecture: iphoneos-arm64
-Version: 0.0.1
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/arm64/WALegacy.0.0.1.arm64.deb
-Size: 4584
-MD5sum: 68860a1f83895aaa008662369d91de49
-SHA1: 537ae5efb5a9091e40efa6c81b2332ed9b1b9e7a
-SHA256: 8f8801ad743ca793069579bd15096045a10ebd836e115ad673f8088f58624d59
-SHA512: 7eb6f902d51531c3dd4d1768a204c2ef2874dfd90d0bb0961e5c90a394d3d79759155327373e61e23644f7cd80badb645f85a5353f92c434a567eac3c3cae10e
-Description: WALegacy
-Name: WALegacy
-Author: dvntm
 
 Package: com.mhsternice.wasendfix
 Architecture: iphoneos-arm64
@@ -8753,23 +8719,6 @@ SileoDepiction: https://raw.githubusercontent.com/nowesr1/WhatsApp-Call-Blocker/
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: nowesr1
 Icon: https://raw.githubusercontent.com/nowesr1/WhatsApp-Call-Blocker/refs/heads/main/Sileo/icon.png
-
-Package: com.dvntm.walegacy
-Architecture: iphoneos-arm64e
-Version: 0.0.1
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/arm64e/WALegacy.0.0.1.arm64e.deb
-Size: 4516
-MD5sum: 47f351c7e03d3bb1b829ff4e9f432a8e
-SHA1: efaf9cf4601d23e434735f323d3512226ccc9e01
-SHA256: ec5d170f6720fcfb46559d15725520712c56e19e10c8547ae461ae2c91b8e44b
-SHA512: e68163485486ed1837261fa7e59d5f41ef9bf8885483f7dea8dbc7d11ff781217e64cee28d661a730c4e535e1f55fd99416890d4aa2cb734d5c5f2d117446ab5
-Description: WALegacy
-Name: WALegacy
-Author: dvntm
 
 Package: twitter.nowesr1.location-spoofer
 Architecture: iphoneos-arm64e

@@ -1,0 +1,10 @@
+Package: com.dvntm.walegacy
+Name: WALegacy
+Description: spoofing version 25.14.7
+Maintainer: dvntm
+Author: dvntm
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Version: 0.0.1
+Installed-Size: 152
