@@ -5120,6 +5120,25 @@ Name: DLEasy
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
 
+Package: me.ahmedbafkir.dleasy
+Architecture: iphoneos-arm64e
+Version: 2.14.7
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Installed-Size: 15584
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/arm64e/DLEasy.2.14.7.arm64e.deb
+Size: 5474164
+MD5sum: 72893c45a144a273ee11b97db883ca2c
+SHA1: 84c3dd786755bd7763cbd90612ad58f7f38dc897
+SHA256: f478eea961255cf20aff50390c043cd502196b4e06d3d90f5326ff7853ee55c1
+SHA512: 8bf940a4bf0c5f0f61c6883f04a73a3164cb9ecacce56cca82d4600520ef68182d936b01523a38dededa0feec92b5c2a9b678d31ea94d3042bddd7a20bbc1eaa
+Description: Download/Share images & videos from social apps easily!
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
 Package: com.asterix.digitalbattery13
 Architecture: iphoneos-arm64e
 Version: 1.1.0
