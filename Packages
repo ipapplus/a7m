@@ -3962,11 +3962,11 @@ Installed-Size: 2476
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/arm64e/A-Font.1.10.1.arm64e.deb
-Size: 400444
-MD5sum: ab3a0c27df0cfff0ce665d63b8ab1dfc
-SHA1: bab02dbc5d98fadfd0d016293def008a4dda729d
-SHA256: 2417de35a64398f871d8bb826959932dd8b77a9623ac5198adcfc102622a2ef8
-SHA512: 13960db4a977daf46d053b9e3d8404d9c81bd94d7ee01d429e94bb187e4194e1fbf582a961e89e921ef52697a2466e9e89d35056c77516ce8c1976e334d05642
+Size: 602004
+MD5sum: c14f337c37896954e56ca6f68e8a948f
+SHA1: 1019ee6536914db7e18b93f10e21da99b99226ef
+SHA256: f957fa6934565e394c671afe4a36e29c1166390baa4d9dd6a265e96706ea09e3
+SHA512: 7e018b45d9ce65bc29ae1e7d2a77146b15b64f76a8c08a1f64da251465c2fa28986ceec3ab1ca601b1f674b83297e10a4ec723afed93cd0c7d449b2d7704a678
 Description: Change your font!
 Name: A-Font
 Author: Baw Appie <pp121324@gmail.com>
