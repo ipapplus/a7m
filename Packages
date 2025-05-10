@@ -2276,6 +2276,23 @@ Description: Clipboard manager for iOS.
 Name: Kayoko
 Author: Alexandra Aurora Göttlicher
 
+Package: codes.aurora.kayoko
+Architecture: iphoneos-arm64
+Version: 2.9
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/arm64/Kayoko.2.9.arm64.deb
+Size: 128368
+MD5sum: 48838febdc8397d4ccf6220718f992f7
+SHA1: c0cdbacf127ce0da0b8c9d920a9fe515f4bb2a7a
+SHA256: b0df8bbeabeb41f7b293a88d37a13c1b0f8c32c86e53bbfeba70749e27343ee2
+SHA512: 832f43700e40c7d5338cbf90bbe3a8bd5622a6f8397a7b22af8d0c83d8418cc97781a9966622ef813e9130f94375c346c28a4a78f7c4989a7f897943688a3013
+Description: Clipboard manager for iOS.
+Name: Kayoko
+Author: Alexandra Aurora Göttlicher
+
 Package: com.dvntm.lsnoswipe
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -6277,6 +6294,23 @@ MD5sum: 4a2dcd348256493df6d302ac2d373f61
 SHA1: 4bef734cf610d612f9a8989894604e5bbdf6dc09
 SHA256: 348e9ca125ad2547e3ffad844a3f12110578f6e78dc6dda91e0321bf32ee66cf
 SHA512: af22c71700aa1ea88f203ba55402389619dd70c977c0f6297ac785aaade17b616b09eeaf61bd10fa22ea78613ce57c731763b44258c05aa81d6da84cde1fe55d
+Description: Clipboard manager for iOS.
+Name: Kayoko
+Author: Alexandra Aurora Göttlicher
+
+Package: codes.aurora.kayoko
+Architecture: iphoneos-arm64e
+Version: 2.9
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 968
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/arm64e/Kayoko.2.9.arm64e.deb
+Size: 129188
+MD5sum: 75806375f0a3d1fc189193dfec5edcfe
+SHA1: 56f1c5a41eb55f95e2fbf607963fe74fcae9e287
+SHA256: ab951ac038b5d130a35af2d36fff1f92948a067b4ea4a1df4c5515561ece8e2a
+SHA512: 56f73b8b5e54be99c72f23d67733bf5f49fda37b4d5a1ae7ae8b883e14f466171cdc1c0453e1e0ff5e0f711456f8304271a05c036a04c6e806b8ec999dc65105
 Description: Clipboard manager for iOS.
 Name: Kayoko
 Author: Alexandra Aurora Göttlicher
