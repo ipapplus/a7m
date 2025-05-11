@@ -1513,6 +1513,23 @@ Author: MTAC
 Icon: https://mtac.app/repo/assets/com.mtac.ccpowermenu/icon-rounded.png
 SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.ccpowermenu.json
 
+Package: com.dell.chesspatch
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Dell <tranthikimchi2601@gmail.com>
+Installed-Size: 244048
+Depends: mobilesubstrate
+Filename: ./debs/arm64/Chess.Patch.0.0.1.arm64.deb
+Size: 2777892
+MD5sum: 01508262c86fb2fd167d4a62cf959044
+SHA1: b9ed94ab205c2c2ce1aecf2f9c6e272f773abbb5
+SHA256: f5fc1892a3f3d30cf32c746c3e1a913446e7412fdcdd7291bbe0d7a0970efcce
+SHA512: c7c091676f5c68237cb9e8a45809a2c5524574e694157e0a1c2323e535a5631cb6ea09da4d70529dc9d116a63c6442669e87132f8d5d83909e4aa67fc8b259ac
+Description: Unlock Diamond Membership
+Name: Chess Patch
+Author: Dell <tranthikimchi2601@gmail.com>
+
 Package: org.coolstar.classicfolders2
 Architecture: iphoneos-arm64
 Version: 3.0.6
