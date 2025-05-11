@@ -4969,6 +4969,24 @@ Description: An automation framework designed for the iOS platform
 Name: CatScript
 Author: 0x530c<0x530c@gmail.com>
 
+Package: com.dell.chesspatch
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Dell <tranthikimchi2601@gmail.com>
+Installed-Size: 244048
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/Chess.Patch.0.0.1.arm64e.deb
+Size: 2777884
+MD5sum: dda176734ffe48a543167a05aef65e0b
+SHA1: f932564dd2604d9540cb104c774dcabce0b382a5
+SHA256: 1f0301fae34733834e2ad02e9095b7da609fec423620200401da7b651494697e
+SHA512: 3043265999b9c20e5056bd8f568020f857c4f2ff59024cb0460057b7b37ac59be1f968cb4dfb1e9961c99a62b24363cea8c8d31f697ca8f6523549cc559651e6
+Description: Unlock Diamond Membership
+Name: Chess Patch
+Author: Dell <tranthikimchi2601@gmail.com>
+
 Package: org.coolstar.classicfolders2
 Architecture: iphoneos-arm64e
 Version: 3.0.6
