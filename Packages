@@ -305,6 +305,23 @@ Description: An awesome MobileSubstrate tweak!
 Name: ESignAlert
 Author: dvntm
 
+Package: com.dvntm.firstlook
+Architecture: iphoneos-arm
+Version: 0.0.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), com.anthopak.lastlook
+Filename: ./debs/arm/FirstLook.0.0.3.arm.deb
+Size: 7580
+MD5sum: 3efc38276d154c72290ec6cb5b92e73e
+SHA1: a60d6c62ab20e29531b9e91a51ab9cb973417341
+SHA256: 795fa93b6f07870e458d912744a595024f7ac15dbed4755f23897d6ef59fa022
+SHA512: fa907ecbf1e9d5bae79a1c1e29d6aeb8fba3c68b0aaba4b26b1f3abddc32f1375f7e08e5ae1a698b8987a2599d38c053abbdb641ec0dfa9fc56895f2faf3ea68
+Description: First look for the LastLook tweak
+Name: FirstLook
+Author: dvntm
+
 Package: com.yourepo.ibreak.hideseparator
 Architecture: iphoneos-arm
 Version: 1.9.2
@@ -1809,6 +1826,23 @@ SHA512: cafefe03db72be8a7820c0ff25ff182eab2909e1124b70db7bde2db24fc2cc837232f35e
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
 Name: Filza File Manager 64-bit
 Author: TIGI Software
+
+Package: com.dvntm.firstlook
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), com.anthopak.lastlook
+Filename: ./debs/arm64/FirstLook.0.0.3.arm64.deb
+Size: 7668
+MD5sum: 3db38855a0455e6df1f5af6043fc733d
+SHA1: 993bd0f0781f09e082fdbc5941759c98cd465e19
+SHA256: 5df4fdf08842c956a314d1cf2fc3e81ed0b0aa74749aa49f03e867a781c757bf
+SHA512: 8c08131502396134f36793f2c8b44e644830f7216f3d547deeaa8cb0fdc2caaf6798be8273db0db98fc24fced7cf67b8c47f43f2bdff56493fe274438bdca545
+Description: First look for the LastLook tweak
+Name: FirstLook
+Author: dvntm
 
 Package: ru.rj.ftt
 Architecture: iphoneos-arm64
@@ -5595,6 +5629,24 @@ SHA512: c249041c1cfa2b9cc61ad1683763c48461bf46125afd16ee16f4ec2283a358e57f7cf161
 Description: Filza Extension To Calculate Folders Inside Your Filesystem
 Name: FilzaDirProbe
 Author: 0xkuj
+
+Package: com.dvntm.firstlook
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), com.anthopak.lastlook
+Filename: ./debs/arm64e/FirstLook.0.0.3.arm64e.deb
+Size: 8548
+MD5sum: e86dcfd5e841b2d2db05d76a22509afd
+SHA1: 1cb5bd7ae7260dcb7c91f83c3d6d03f2395e19e2
+SHA256: 45343c29c4d0414c3a97faa94ce459ef4d40d63c70b8696ad65e3827d28cfcd2
+SHA512: 90f098ff65623127b60ae352b1835262e1ea4b6b4b758ab651371a28d02be487aac1dc39f3a9d6cd3fa9abae0274c54ea526c0db93b524d27ae54a9903195245
+Description: First look for the LastLook tweak
+Name: FirstLook
+Author: dvntm
 
 Package: cn.Bswbw.fixset
 Architecture: iphoneos-arm64e
