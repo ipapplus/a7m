@@ -3521,6 +3521,27 @@ Author: dvntm
 
 Package: com.dvntm.walegacy
 Architecture: iphoneos-arm64
+Version: 0.0.3-1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 158
+Depends: mobilesubstrate
+Filename: ./debs/arm64/WALegacy.0.0.3-1.arm64.deb
+Size: 4748
+MD5sum: 6468ff5c5b746ca2b7925de6c6dd17c1
+SHA1: 4e8d1cc5d742becc364a339ec6e0b82abfb491e4
+SHA256: 13a30b3bafc01533593ce9e3b7efc87cea085ff597917d4e77838e299f8ec0b6
+SHA512: 2ae5cf816592d1a40123041133b97be84f91487f642eef4d57c8228bb9d76640b114400bad4579cea4b7819fe7cf00f0163789bdb36788faade343ecbd15b02f
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=walegacyDp
+Description: Legacy WhatsApp version support by spoofing as up-to-date
+Author: Dayanch96 <dayanch1996@gmail.com>
+Name: WALegacy
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=walegacyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: dvntm
+
+Package: com.dvntm.walegacy
+Architecture: iphoneos-arm64
 Version: 0.0.3
 Section: Tweaks
 Maintainer: dvntm
@@ -5206,6 +5227,25 @@ MD5sum: 72893c45a144a273ee11b97db883ca2c
 SHA1: 84c3dd786755bd7763cbd90612ad58f7f38dc897
 SHA256: f478eea961255cf20aff50390c043cd502196b4e06d3d90f5326ff7853ee55c1
 SHA512: 8bf940a4bf0c5f0f61c6883f04a73a3164cb9ecacce56cca82d4600520ef68182d936b01523a38dededa0feec92b5c2a9b678d31ea94d3042bddd7a20bbc1eaa
+Description: Download/Share images & videos from social apps easily!
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+
+Package: me.ahmedbafkir.dleasy
+Architecture: iphoneos-arm64e
+Version: 2.14.8
+Section: Tweaks
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Installed-Size: 15616
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/arm64e/DLEasy.2.14.8.arm64e.deb
+Size: 5476448
+MD5sum: fe8fd53fe79c5b8d9e85e6294e917a23
+SHA1: e21f7355c716f9b8235286c18224c286a513311f
+SHA256: 4a222c8cc9570cad998d580b11c59514e52b030d7c56ea7e07a17680b72bf7a2
+SHA512: 1e4e5ed69f7550c9082cd3f8aebcec3b1549f0a5e4e3fdd92b4d7da6020cf326144d32ea4b62c9de481b8f7f1a14659712ee86418fd6b2954830b0b22a66cbff
 Description: Download/Share images & videos from social apps easily!
 Name: DLEasy
 Author: AhmedBafkir <prooxy0@gmail.com>
@@ -8930,6 +8970,28 @@ SHA512: 52437b7fbd04cbcb09bb73d4b496705810e55e93a2183b7ae809f1c8b5ae39a42c8083c6
 Description: spoofing version 25.14.7
 Name: WALegacy
 Author: dvntm
+
+Package: com.dvntm.walegacy
+Architecture: iphoneos-arm64e
+Version: 0.0.3-1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 158
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/WALegacy.0.0.3-1.arm64e.deb
+Size: 5776
+MD5sum: b4aeb9b6e3e4569600e9aec742fafa02
+SHA1: 8d0180309daa2aeef28d0367db8d90658e0af0ce
+SHA256: df91dc2c416868bba9344631eee7e13deeca62d36c75afa40159d7717d9f1ba4
+SHA512: 22ff4f5a280e0655ef334eea93dce68ff2bf4a98222ce81eca0617955b6467dd55dae364002742de0625fee720cceea1c9319268ccb725e194afff873408bb97
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=walegacyDp
+Description: Legacy WhatsApp version support by spoofing as up-to-date
+Author: Dayanch96 <dayanch1996@gmail.com>
+Name: WALegacy
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=walegacyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: dvntm
 
 Package: com.dvntm.walegacy
 Architecture: iphoneos-arm64e
