@@ -7326,25 +7326,6 @@ Author: iKG_HD <ikg_hd@bk.ru>
 dev: ikghd
 Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.pmp.png
 
-Package: xyz.cypwn.paibloxx
-Architecture: iphoneos-arm64e
-Version: 1.1.2
-Section: Tweaks
-Maintainer: CyPwn
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, com.bingner.plutil | plutil, ws.hbang.common (>= 1.17)
-Conflicts: net.myxxdev.mybloxx12, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14
-Filename: ./debs/arm64e/PaiBloxx.1.1.2.arm64e.deb
-Size: 93352
-MD5sum: 44ae637cd45fc9ac7a19a17b5bf8f7a7
-SHA1: 5e1fcc247ba0c4a1e75e7af7ee9536e01239cefd
-SHA256: 7c934d3196ccfea68848ffe1cbf5917ea6c7c9518446978a58275bbe10438972
-SHA512: 4d29410482bde48bf1790fd0b3b002052bd7274b5cd0fd842b596d000de543574ec66648648606eb3572d7bee2d5b5eda591c6f5ef50a7343e32f2ae74b9ffa0
-Description: A safe CLI ad-blocker for iOS. Enter `pbx` in terminal to get started.
-Icon: https://repo.cypwn.xyz/packages/PaiBloxx-Rootless/icon.png
-Name: PaiBloxx
-Author: Paisseon
-
 Package: com.nightwind.photosnoinfobutton
 Architecture: iphoneos-arm64e
 Version: 0.0.1
