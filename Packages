@@ -4847,6 +4847,25 @@ Description: Round CC modules replication, like in iOS 18
 Name: CC18
 Author: dvntm
 
+Package: com.0xkuj.ccadsbegone.roothide
+Architecture: iphoneos-arm64e
+Version: 1.5
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 6096
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.opa334.ccsupport, com.ps.letmeblock (>= 1.3.0)
+Conflicts: com.0xkuj.ccadsbegone.rootless
+Filename: ./debs/arm64e/CCAdsBeGone.(roothide).1.5.arm64e.deb
+Size: 956316
+MD5sum: 92d6f80b3596abdaf9dbd04232b1794f
+SHA1: aeda05aeb014bb695d96c65b3a930ea87f96f492
+SHA256: d8ee8a27105bcb725649c1b57d1575bbf37ebea09c5465adacae1e55750b7e14
+SHA512: 2ddc566834e69b2ca2694300f3b55e958de96a40c746adc7814a05f92a4b063dba41c66033e5d71f6bf71b9c507329c189183480aa19898ba84306440b9b291e
+Description: CC Toggle to block ads on demand! fixed by @ipapplus
+Name: CCAdsBeGone (roothide)
+Author: 0xkuj
+
 Package: com.0xkuj.ccadsbegone.rootless
 Architecture: iphoneos-arm64e
 Version: 1.5
