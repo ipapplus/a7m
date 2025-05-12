@@ -15,7 +15,7 @@ function FindProxyForURL(url, host) {
         "1.zuowenjun.com",
         "10.afs.googleadservices.com",
         "10.at.atwola.com",
-        "10.im.cz",
+        "api.github.com",
         "100.pncdn.cn",
         "100001578.collect.igodigital.com",
         "100001667.collect.igodigital.com",
