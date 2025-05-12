@@ -390,6 +390,25 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
 
+Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm
+Version: 2.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 1132
+Depends: mobilesubstrate
+Filename: ./debs/arm/Infuse.Plus.2.1.arm.deb
+Size: 400496
+MD5sum: 6f5482a29d14133f09667e6638684f3e
+SHA1: ef38a31547c0ff6d1494b4e7e6d80fca242b9d54
+SHA256: 6f16c82ee0b938a705bbdf47093bacbf98eeff9dea7a427965da8b2b739b1ea0
+SHA512: 21a6486ec40e15591d5f0faa05f268d44566e48608e202193c5f4e130656854d6b08c22b0252f684184be166c85c60e46c39f3071f98213316454982cdc28f4b
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
 Package: com.ipapplus.instarab
 Architecture: iphoneos-arm
 Version: 1.4.0
@@ -2214,6 +2233,25 @@ MD5sum: 1587ab3e51da6a5a98f1edf7fc1c74c0
 SHA1: 0e24f359ed269e647dc1c4102e88ee256f929ee0
 SHA256: 094a025af7efb8d251531dd5ed2cbeeac539c29b386fb3921fcfa18df8580d67
 SHA512: dff5d901167c585725c8bd69179c30fdf0dd86b3b96b102aa6313ba0b8928fc487a1135c2997a7fe93903b8e97117fd06c68f7050eac19591078131e2a3c8070
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
+Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm64
+Version: 2.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 1132
+Depends: mobilesubstrate
+Filename: ./debs/arm64/Infuse.Plus.2.1.arm64.deb
+Size: 400172
+MD5sum: d898151c5a22a3afb4afe2c0e6236b60
+SHA1: 23e6f83dbaefab58aa32be90afcbd10b6f80005d
+SHA256: 3acec9af5cc1ad1eec258e04fa73e4ed083161fc17be82fefd8997315b9bf133
+SHA512: 3e8209cac4d8d04d13a57178992134c91c0440377c26de7e838da7c38732358399281f17cca16ce846d8f6611fb5b23fa576fcd0122768a141732c76655f30e5
 Description: Enhancer for Infuse app
 Name: Infuse Plus
 Author: dvntm
@@ -6289,6 +6327,25 @@ MD5sum: 4ccd0b61a9c3e8694c6b73fe9cfc6981
 SHA1: 8a6df97b9f3f275c3c6f985550b3f26f59cdea7e
 SHA256: 1d45ba734ed547f6aef1e87304cbaaecc9c77ed5e8c67f18658da062d2fbef58
 SHA512: 62c4aa0ce9fc644d5ccc77d923f7f77e9359908bc3a2ecfa21670d4839bf5e93e1fb39ce1715a76c69e709b11584e5a51329f701c268e5617370c8acd4783227
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
+Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm64e
+Version: 2.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 1132
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/Infuse.Plus.2.1.arm64e.deb
+Size: 399396
+MD5sum: a27fb7b0d306cd0f7ebfcb01fa453670
+SHA1: 6bda556b938738cef492eac5ac66f22f04c0cc2c
+SHA256: 9a19eed8b496d8a7577f36202add677cc7a849ff6e2bfa2f6d99e8bbf920d9a1
+SHA512: a970b621709344fa929e761e28e5f123f546d96dab3181f7db103d5301e47011f5547481f0d5a5687b8d3a90a850345f797123f27d91807ae02bec609d1f3f73
 Description: Enhancer for Infuse app
 Name: Infuse Plus
 Author: dvntm
