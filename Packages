@@ -949,6 +949,23 @@ Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
+Package: com.n3d1117.xnotforme
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: n3d1117
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/arm/XNotForMe.1.0.arm.deb
+Size: 4180
+MD5sum: 31c0ed2c0c7fcfd8a45605a9a71d675a
+SHA1: 9389081b3fbd78c3aba1ec5ca9d5f2beda4469bd
+SHA256: 0891b915bf3bfd2d7793588d2bd9bcabc36e4dc1825254df801f31859df2f51d
+SHA512: b3fa3cb11a3bf16f708717c7a3cab205af4a33e16da4f5aa2f324122843a3e879d9a63c63375ee04b70f886fc2184afe946638a26bcec17bdc355b490676f818
+Description: iOS tweak to completely remove the "For You" tab in X/Twitter fixd by @ipapplus
+Name: XNotForMe
+Author: n3d1117
+
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm
 Version: 5.2b1
