@@ -9283,6 +9283,24 @@ Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Icon: https://i.imgur.com/l9dqM3v.jpeg
 
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64e
+Version: 2.5.19
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0)
+Filename: ./debs/arm64e/WatusiTools.2.5.19.arm64e.deb
+Size: 4797536
+MD5sum: 3a0a5e68d12fa26ac447b092f8b2293d
+SHA1: 8ae1cb067274023d9c4b1acad9b7bcc2cda3592a
+SHA256: 66d47c5426ab8821188f06db0f3da099fe3af4449b5c6788e29811534331de84
+SHA512: d24291327183f9f81d10549387113d9cd58d44d3d06da58a1d6590d341b08830d553a5774da2634d1fab375320a2791ccac6ad3ff146473a3b8b6fa002f11fa7
+Description: Library for Watusi, Regram and other tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
 Package: org.thebigboss.whatsapprevael
 Architecture: iphoneos-arm64e
 Version: 10.23
