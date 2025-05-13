@@ -6924,6 +6924,28 @@ Depiction: http://www.tateu.net/repo/html/?p=moorebarx15
 Sileodepiction: https://www.tateu.net/repo/html/MooreBarX15.json
 Header: https://www.tateu.net/repo/CydiaIcon.png
 
+Package: net.tateu.moorebarx15
+Architecture: iphoneos-arm64e
+Version: 1.0.0~beta1.0.3
+Section: Tweaks
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Installed-Size: 968
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=15.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: net.tateu.moorebarx13, net.tateu.moorebarx15
+Filename: ./debs/arm64e/MooreBarX15.1.0.0~beta1.0.3.arm64e.deb
+Size: 154980
+MD5sum: 28d6a15be2b2dad39994e2e25cbaacbb
+SHA1: 6ca374adf8f4760f77c1c81e2559c3c6d82bdbe1
+SHA256: 289a77f2e28d7aa49e84a46d87e423205cbfa6958ab90a66aa6fbdc447c80b8e
+SHA512: cd09cabc5e1984f4d0f175aa7baa965aa52e98a8a88e7337fb8d2f58070cb4adbdc8d9bead340d5cbe93e43b7f6232b2ab3237d0f59db9edb332e86a52df993e
+Description: More StatusBar icons.
+Name: MooreBarX15
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Depiction: http://www.tateu.net/repo/html/?p=moorebarx15
+Sileodepiction: https://www.tateu.net/repo/html/MooreBarX15.json
+Header: https://www.tateu.net/repo/CydiaIcon.png
+
 Package: com.nan.miic
 Architecture: iphoneos-arm64e
 Version: 0.1.0
