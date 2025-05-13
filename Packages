@@ -6885,6 +6885,28 @@ Description: Messed, Messenger with No Ads and No seen.
 Name: Messed
 Author: 34306
 
+Package: net.tateu.moorebarx15
+Architecture: iphoneos-arm64e
+Version: 1.0.0~beta1.0.2
+Section: Tweaks
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Installed-Size: 1068
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=15.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: net.tateu.moorebarx13, net.tateu.moorebarx16
+Filename: ./debs/arm64e/MooreBarX15.1.0.0~beta1.0.2.arm64e.deb
+Size: 171656
+MD5sum: 0a3dc08e26fa7604ebd969fa0172f309
+SHA1: c3b71779701484167077e68076d9d5485f7fabbb
+SHA256: 6b1fb3add5c0f756bba194a6aab108894bfb62dd918729cfdb996c9b8d5afd36
+SHA512: a23a37057ac2fa1df54bb006ebb17650ca887a5ac20c4e8850166d2d4641df341d627c445e4962114fd435415e1f3dbbcf683d6823e41fb40b529d2d58f6ba0a
+Description: More StatusBar icons.
+Name: MooreBarX15
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Depiction: http://www.tateu.net/repo/html/?p=moorebarx15
+Sileodepiction: https://www.tateu.net/repo/html/MooreBarX15.json
+Header: https://www.tateu.net/repo/CydiaIcon.png
+
 Package: com.nan.miic
 Architecture: iphoneos-arm64e
 Version: 0.1.0
