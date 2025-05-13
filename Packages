@@ -758,18 +758,17 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
 
 Package: com.choco.tg
 Architecture: iphoneos-arm
-Version: 1.2-9+debug
+Version: 1.2-1
 Section: Tweaks
-Maintainer: choco
-Installed-Size: 15210
-Conflicts: com.choco.tgextra
-Filename: ./debs/arm/TGExtra.1.2-9+debug.arm.deb
-Size: 1557876
-MD5sum: e43b9e6216d480178a051f005af39df8
-SHA1: 8a4e0cc6e9b5c88b35303d846bc727ac25a58792
-SHA256: aa50b7302900d25c69f494eea7f37af3bc7d19a2d59c5f918d2dd02c9043a362
-SHA512: f2874596eb46fda59cf3663714cc0f62a419526678ceffa9cc7cd2430f1636a005fd1cd7a00d51549541eba7bf65fa52b0aa1a1fd843907db1b4024b24abb27c
-Description: An simple Tweak For Telegram iOS
+Maintainer: waruhachi
+Installed-Size: 28284
+Filename: ./debs/arm/TGExtra.1.2-1.arm.deb
+Size: 4651660
+MD5sum: ae115bc1315dd0bca50a46c32ced7e80
+SHA1: 53d637326c6ce64b5c2f8b578be679970a4118ae
+SHA256: 59a05990a33e6d7653fa27b4b3f4673e21865d58474e4dc9ab71ecae088f9aca
+SHA512: fd0297d0cb99ea945280d2558edf2ce67f51ebded7bae7f673ab79178d20eff6b89d0dcf5e1c68838624ba0c00e3510de7cb265824942c12cd060a094c9c368d
+Description: A simple Tweak For Telegram iOS
 Name: TGExtra
 Author: choco
 
@@ -949,6 +948,28 @@ Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
+Package: com.lheap.whatspad
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 114
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm/WhatsPad.2.0.arm.deb
+Size: 7572
+MD5sum: fd17d66ae73dd5adaade8080943ad7ff
+SHA1: 7d6220b74163d2f6f440b028973c0c7d3fb9ecce
+SHA256: af746898dec3390436ff9b7c7e13ae53f89e724b930a69e07634612a886f21f8
+SHA512: e2885463f40db815e887206e03f2df6e38081089e40012f19ba0658214095a2b8e66b070deceb4392cce278e2c743d2ad26c2213ed8ff632d78d1e1612d45341
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatspadData
+Description: Enables WhatsApp Messenger on iPad
+Tag: purpose::extension
+Name: WhatsPad
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatspadData
+Author: Lee Heap <lee.heap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: lheap
+
 Package: com.n3d1117.xnotforme
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1036,6 +1057,25 @@ SHA512: 737acfc25a1a3caa5f15438809ab4783e79fd787e4f4cdb718ee778c195dcf3025332800
 Description: A ShadowX implementation for librelic 2.1
 Name: relicloader
 Author: no5up + Kanji <ipodtouchdemohammed313@gmail.com>
+
+Package: com.nightwind.rootless-patcher
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: System
+Maintainer: Nightwind
+Installed-Size: 116
+Depends: odcctools, ldid
+Filename: ./debs/arm/rootless-patcher.0.0.1.arm.deb
+Size: 24048
+MD5sum: d77713906a6940e8a9d78524f08682f9
+SHA1: 363769f99e15b3512575eefbd74f96221ec9a210
+SHA256: 5f842bad2a254c7c019e66c791ea7a60212f1cf5040c4c818d37ee65e1f07719
+SHA512: c5e66a2f353dc639527ec7876f8609ba43e9205ab2a2b1cf2f1eaa2ece49253f748eeacde79f36531ada1f358596cea13aeeb251cdc9e0304842d4191226d339
+Description: A CLI rootful to rootless patcher.
+ Utilizes a technique that does not require Xina-style symlinks.
+Tag: role::hacker
+Name: rootless-patcher
+Author: Nightwind and staturnz
 
 Package: com.randy420.tools
 Architecture: iphoneos-arm64
@@ -3398,18 +3438,17 @@ Author: ARX8x
 
 Package: com.choco.tg
 Architecture: iphoneos-arm64
-Version: 1.2-9+debug
+Version: 1.2-1
 Section: Tweaks
-Maintainer: choco
-Installed-Size: 15210
-Conflicts: com.choco.tgextra
-Filename: ./debs/arm64/TGExtra.1.2-9+debug.arm64.deb
-Size: 1560808
-MD5sum: 467cced287e916fd1466fa95a2485efb
-SHA1: 42333d3c7b5e0ec0cba7c3e13a2380bc4aaf6b48
-SHA256: 6d070b2524e39296a3abf9123f3f8eb8307b2789ab2091b1e1c5ff8c2658469d
-SHA512: c1079e462cde2d28b778bc121717d7d4d4e84476dfec97989a3f4804d3404b66bdc44db922efeede8fc7dd4d65be52559f315278cd66dcee6c8e1e649642d7f5
-Description: An simple Tweak For Telegram iOS
+Maintainer: waruhachi
+Installed-Size: 28284
+Filename: ./debs/arm64/TGExtra.1.2-1.arm64.deb
+Size: 4650912
+MD5sum: ad7f86fa9afab1f75de4caf132953e0e
+SHA1: 9535070fa0fb7aa3dde9e3b41ed890fc8a2f5dd3
+SHA256: 721c52c25b8590011b50df4773b3978c511b2cb48e8e4d3efc070637b990db18
+SHA512: a6c6766cc66227df291c1e8f83bbebddf9548175d92ddae90411e4aad4ee5fbbd006b5ff229c0920661e586af073c361cd498c9980987aee3353903105e98651
+Description: A simple Tweak For Telegram iOS
 Name: TGExtra
 Author: choco
 
@@ -3696,6 +3735,28 @@ Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: com.lheap.whatspad
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 114
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/WhatsPad.2.0.arm64.deb
+Size: 3336
+MD5sum: 1831e47de7acdebd181eeb26575a94f4
+SHA1: e39303e8729152c75c4e006872d95a1608efeca0
+SHA256: 59ab196e611d1233a540a6a637be3d6efa9fe0a5b2dccf6b257475e7572ebe85
+SHA512: 77f10d9fcd4c3a2cda915527457b457f4f54fb55769612d92bd33acf2256bb54cc7bf38c94768891d86fad3fd8c4032c49a6fe732d51bc9821bca4096f171b98
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatspadData
+Description: Enables WhatsApp Messenger on iPad
+Tag: purpose::extension
+Name: WhatsPad
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatspadData
+Author: Lee Heap <lee.heap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: lheap
 
 Package: com.n3d1117.xnotforme
 Architecture: iphoneos-arm64
@@ -3997,6 +4058,25 @@ SHA512: df4b7dc7ea2d4312c0a6f534645837aff8ba2131dbec105e5a28a84756aa9a069fc464fe
 Description: Remove the notification that the P
 Name: replaced
 Author: 34306
+
+Package: com.nightwind.rootless-patcher
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: System
+Maintainer: Nightwind
+Installed-Size: 116
+Depends: odcctools, ldid
+Filename: ./debs/arm64/rootless-patcher.0.0.1.arm64.deb
+Size: 24052
+MD5sum: ebc4f00d534e492c37d33edfbc96fff4
+SHA1: 3e162e472529c05ff5d62b3546334cb47b7d91fd
+SHA256: 7e067df73961f3ffb939f2838e10ae4eb1c4d406c6c9f59248ededbfa3516d81
+SHA512: 20c68523d6e055fa0c356905cabb07640c51915fad28d72f260ab6d2b07697b5e69f97969a94bbad9582c25cf593c3924de57caee9fb6322cca65a492b795512
+Description: A CLI rootful to rootless patcher.
+ Utilizes a technique that does not require Xina-style symlinks.
+Tag: role::hacker
+Name: rootless-patcher
+Author: Nightwind and staturnz
 
 Package: com.m1337.varclean
 Architecture: iphoneos-arm64
@@ -8547,19 +8627,17 @@ Author: ARX8x
 
 Package: com.choco.tg
 Architecture: iphoneos-arm64e
-Version: 1.2-9+debug
+Version: 1.2-1
 Section: Tweaks
-Maintainer: choco
-Installed-Size: 15210
-Pre-Depends: rootless-compat(>= 0.9)
-Conflicts: com.choco.tgextra
-Filename: ./debs/arm64e/TGExtra.1.2-9+debug.arm64e.deb
-Size: 1516612
-MD5sum: 36d3fb47ed0e95211567ba54f7f8d139
-SHA1: ef541884505c65105a63a60f42744ded5af21647
-SHA256: 2c7c62ed420006e538e4e6fa6e810eacc5dbdafd6352e92cf2ea690fe8e53d80
-SHA512: 802cfec258ecb15db1a1b04c742e3ef1ff1a5deed870f5ee378d4433e21a7a751151c9061c882a9885619c91b595efb2885c6443f8cfcd3946677e53f14bd3bb
-Description: An simple Tweak For Telegram iOS
+Maintainer: waruhachi
+Installed-Size: 28264
+Filename: ./debs/arm64e/TGExtra.1.2-1.arm64e.deb
+Size: 4648772
+MD5sum: 32b5f7a0e46ad4a3a21a4d28dc01d62f
+SHA1: 1205ec8a251886bae002319a72719d0611a69dd8
+SHA256: 3c8ebabb5455ff27055df238b2c80edf24068137c105372074c9b622ea436086
+SHA512: fc282ff473c26731012f148d0bcfe11daa81a9a72ed1451aaad72d81a913c68752a1000040186f9faac01fead892bc0e43e44791cec5b77292d8c3f1b0cec1a4
+Description: A simple Tweak For Telegram iOS
 Name: TGExtra
 Author: choco
 
@@ -9591,6 +9669,24 @@ SHA512: 384c06914c6f9951c33605c7577f6dc8d6634f1f3868d9021c892acab90ae6d8a2ad2dfc
 Description: A powerful app to remove ads and enhance system patches. Requires installation of Legacy arm64e Support. For testing only, uninstall if any issues arise.
 Author: John Coates
 Name: Flex3 App Modifier - RootHide
+
+Package: com.den.icatch
+Architecture: iphoneos-arm64e
+Version: 1.1-120
+Section: Tweaks
+Maintainer: DeNsor
+Installed-Size: 272
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64e/iCatch.1.1-120.arm64e.deb
+Size: 30688
+MD5sum: 4061b279b6ee7b738ef8a240da227c46
+SHA1: c50f994a929959015da37008d00c3aec6610e76a
+SHA256: 23a485d99349d0d779bd33228b5045aa3e4325f2359766003c32cdff3d85ff86
+SHA512: fb6f3424c59998b1e388d92cee8c78abdbea3eb1d9a4c6d11a9158aa3add54b8139c807d90711249b3e44462cc969d345f82406421effb7f096202ba6f144b74
+Description: iCatch detects every .deb file you download from Sileo & Zebra
+Name: iCatch
+Author: DeNsor
 
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64e
