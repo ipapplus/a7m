@@ -149,7 +149,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "**Latest Update**\n\n**Voice Tweet Settings:**\n- Upload custom voice for voice tweets\n\n**Tweet Copy Options:**\n- Select preferred URL host (fxtwitter, vxtwitter, etc.) when copying tweets\n\n**General Improvements:**\n- Removed unnecessary options from settings."
+          "markdown": "- Upload custom voice for voice tweets\n- Select preferred URL host (fxtwitter, vxtwitter, etc.) when copying tweets\n- Removed unnecessary options from settings."
         }
       ]
     }
