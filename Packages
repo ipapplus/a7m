@@ -112,6 +112,23 @@ Description: An awesome tweak for Instagram!
 Name: BHInsta
 Author: Bandar Alruwaili
 
+Package: com.bandarhl.bhinsta
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 460
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/arm/BHInsta.1.2.arm.deb
+Size: 69124
+MD5sum: 95b3daa4a896abded08b55fc021b082f
+SHA1: b365a2d773204b3a83b589dbe61493412ba61a38
+SHA256: bb3f255cf407d3bfd869963043766c3209f42cce2ef12c0ec6e40c7fb3629282
+SHA512: 5ed99dcd90a27c21c6e012780562817bc279345a6a03024685d8d15628740325c812676cd27105da5b7e5c3ce736f03d2d249e435e213325c7f0b21be512440e
+Description: An awesome tweak for Instagram!
+Name: BHInsta
+Author: Bandar Alruwaili
+
 Package: com.raulsaeed.bhtiktok++
 Architecture: iphoneos-arm
 Version: 1.8-120
@@ -1280,6 +1297,23 @@ SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx
 Icon: https://i.imgur.com/lg6zKtD.jpeg
 Author: Bandar Alruwaili
 
+Package: com.bandarhl.bhinsta
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 460
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/arm64/BHInsta.1.2.arm64.deb
+Size: 69060
+MD5sum: 3148bbf4ad47e08509e6c08150529c7a
+SHA1: ae9cc0fe6f4f1ede9e9e4eefa9092272cd38f750
+SHA256: f33f271c332e6a4abc1cccffd8b853f089eb2e376197351ceb79ecd5f36a18bf
+SHA512: 6ea6eba31e4cacca4806e528d1b0ce7828b9c24afde431e879d3efde125a37c3a263579b3daa29d2829c45d43d692f489f5e783ba2cb7f01e271b3e38d9f5ecb
+Description: An awesome tweak for Instagram!
+Name: BHInsta
+Author: Bandar Alruwaili
+
 Package: com.raulsaeed.bhtiktok++
 Architecture: iphoneos-arm64
 Version: 1.7-1+debug
@@ -1381,6 +1415,23 @@ MD5sum: a4c20f90338be15cd7accd82e7c4c0ea
 SHA1: 6636249e7135cf4a6b0434b8b1fa5160695a22cf
 SHA256: 7147a361dece78ac2767f1bf30f498428b8dfd123fd71f8e6932f6208ccc139d
 SHA512: bfc3fa6d68401208bb7f6db666a37a4decf76d62fb924244a8c11569360ac5ad2c249364a38a34ab9072fdc771c13501cd309fc819b7281450b630b4522a6079
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
+
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64
+Version: 4.4-1
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 18344
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/arm64/BHTwitter.4.4-1.arm64.deb
+Size: 6711696
+MD5sum: dcc31631b9aa850e1037d148177c6210
+SHA1: e03872c8028b4c980b41bd46460f96f85d685d23
+SHA256: 74910a076f9f37e66da7cdadf3ab7919f6e8a5ff507e7c54f06a11d2eb7686d3
+SHA512: ec534e40cbbb647d243dddb56529b178e1341fc492883d7a15a1e27658ffe0aa2d6736216d721b45f4cd8346d87b6de92aba7daf48908180bbc75b39d29393bb
 Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
@@ -4570,6 +4621,24 @@ SHA512: 9cea0774df1d3ffc103639e804c9740255698dc60e4981d908ed30cd685409cc78ea0fae
 Description: An awesome tweak for Instagram!
 Name: BHInsta
 Icon: https://i.imgur.com/lg6zKtD.jpeg
+Author: Bandar Alruwaili
+
+Package: com.bandarhl.bhinsta
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 460
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/arm64e/BHInsta.1.2.arm64e.deb
+Size: 67532
+MD5sum: 862570fb3e7f84a755853c7c9854ee7e
+SHA1: fa78a5e2289afac2e2cce569f1d4ea4f480baa9c
+SHA256: fe20446308a12012a103ebd0720fe7d877802385e1d8b0e4dde71c5e5bfc4e90
+SHA512: 634e1d69d7a3364e2e227feb3782d68d62af516f2a1a8459196cf86892e7d1b67073c85b1edc19d33fd56afa2c7332d2540924aa100f52ff91c0efc618974841
+Description: An awesome tweak for Instagram!
+Name: BHInsta
 Author: Bandar Alruwaili
 
 Package: com.raulsaeed.bhtiktok++
