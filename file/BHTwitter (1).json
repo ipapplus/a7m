@@ -8,6 +8,11 @@
       "tabname": "Details",
       "views": [
         {
+          "class": "DepictionMarkdownView",
+          "markdown": "**Update BHTwitter 4.4.1**\n\n- Fix all crashes in newer versions\n- Add tabs to the hide page\n- New feature: DM replay later page and tags\n- New feature: Upload 4K media\n- New feature: Voice feature in posts and replies\n- Updated localizations\n- Removed unnecessary options\n\n**Thanks to:**\n@actuallyaridan, @Tulugaak",
+          "useSpacing": true
+        },
+        {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 6,
           "itemSize": "{160, 346}",
@@ -53,7 +58,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Size",
-          "text": "6.6 MB"
+          "text": "7.5 MB"
         },
         {
           "class": "DepictionTableTextView",
@@ -105,29 +110,6 @@
       "class": "DepictionStackView",
       "tabname": "Changelog",
       "views": [
-        {
-          "class": "DepictionLayerView",
-          "views": [
-            {
-              "class": "DepictionLabelView",
-              "text": "4.4.1",
-              "fontWeight": "bold",
-              "fontSize": 16
-            },
-            {
-              "class": "DepictionLabelView",
-              "text": "May 14, 2025",
-              "fontWeight": "semibold",
-              "fontSize": 16,
-              "textColor": "#696969",
-              "alignment": 2
-            }
-          ]
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "- Fix all crashes in newer versions\n- Add tabs to the hide page\n- New feature: DM replay later page and tags\n- New feature: Upload 4K media\n- New feature: Voice feature in posts and replies\n- Updated localizations\n- Removed unnecessary options\n\n**Thanks to:**\n@actuallyaridan, @Tulugaak"
-        },
         {
           "class": "DepictionLayerView",
           "views": [
