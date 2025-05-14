@@ -183,20 +183,22 @@ Author: BandarHelal
 
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm
-Version: 4.4-1
+Version: 4.4.1
 Section: Tweaks
 Maintainer: Bandar Alruwaili
 Installed-Size: 18344
 Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/arm/BHTwitter.4.4-1.arm.deb
-Size: 6706176
-MD5sum: 8ee4733fbf4f091b50080214f39f5532
-SHA1: e9fafc1500e5e6b65a6b4ea7ee88a7d619071f18
-SHA256: 1f33aaf0b2b90421f8dbf2dd07969681d36f9b44263e7d7cd2ebf0a411797756
-SHA512: d7efb8ca44522a7522537615eebbb0267ac0e9320f57cbe10afb67f565ef8a3bdc57fa8b436b9e2ada2feb722bf3ae292f6c12dd7ff187d4f2f0d54e3a982aa1
+Filename: ./debs/arm/BHTwitter.4.4.1.arm.deb
+Size: 6705532
+MD5sum: 0f1405c5256e935d9cee05f786377dc4
+SHA1: ae3771dd7b829a7550dc5d887846b80647e17fe4
+SHA256: 664f60892dac350d74a2b6212716625104e47657b83061607ecd0684e57ee1ca
+SHA512: b834d58eba46c34f39059ee007075d7af9f40c681b2e03646de8c9f7e7fbb1fb2b6496efad2d0b79896918e602b19da1c947d23484d11414040eb96c00e2a517
 Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
+SileoDepiction: https://a7m.dev/file/BHTwitter.json
+Icon: https://i.imgur.com/KHtcJGx.jpeg
 
 Package: com.bandarhl.bhtwiter
 Architecture: iphoneos-arm
@@ -1421,20 +1423,22 @@ Author: Bandar Alruwaili
 
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm64
-Version: 4.4-1
+Version: 4.4.1
 Section: Tweaks
 Maintainer: Bandar Alruwaili
 Installed-Size: 18344
 Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/arm64/BHTwitter.4.4-1.arm64.deb
-Size: 6711696
-MD5sum: dcc31631b9aa850e1037d148177c6210
-SHA1: e03872c8028b4c980b41bd46460f96f85d685d23
-SHA256: 74910a076f9f37e66da7cdadf3ab7919f6e8a5ff507e7c54f06a11d2eb7686d3
-SHA512: ec534e40cbbb647d243dddb56529b178e1341fc492883d7a15a1e27658ffe0aa2d6736216d721b45f4cd8346d87b6de92aba7daf48908180bbc75b39d29393bb
+Filename: ./debs/arm64/BHTwitter.4.4.1.arm64.deb
+Size: 6714052
+MD5sum: 73842a0fbbcf17efe114a1d185a49175
+SHA1: 72cc5b388a4fe75a501e6297fb71d65665df06e2
+SHA256: 5e8fd7f1d1bf8b3308b1672feac28a15cc440040e27ca68aa90413a65e8a2649
+SHA512: b0b7f9d7683905f761fd8be88da9f4c1ee8d13bb7e22b81bfb56fb2412cc48ac71613a498480a57bef6f4c4348ddc9085bf4a4a813eb8bb398d102c3c5e1986b
 Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
+SileoDepiction: https://a7m.dev/file/BHTwitter.json
+Icon: https://i.imgur.com/KHtcJGx.jpeg
 
 Package: com.bandarhl.bhtwiter
 Architecture: iphoneos-arm64
