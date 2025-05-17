@@ -1406,23 +1406,6 @@ Author: BandarHelal
 
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm64
-Version: 4.4-1+debug
-Section: Tweaks
-Maintainer: waruhachi
-Installed-Size: 23828
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/arm64/BHTwitter.4.4-1+debug.arm64.deb
-Size: 7499524
-MD5sum: a4c20f90338be15cd7accd82e7c4c0ea
-SHA1: 6636249e7135cf4a6b0434b8b1fa5160695a22cf
-SHA256: 7147a361dece78ac2767f1bf30f498428b8dfd123fd71f8e6932f6208ccc139d
-SHA512: bfc3fa6d68401208bb7f6db666a37a4decf76d62fb924244a8c11569360ac5ad2c249364a38a34ab9072fdc771c13501cd309fc819b7281450b630b4522a6079
-Description: Awesome tweak for Twitter
-Name: BHTwitter
-Author: Bandar Alruwaili
-
-Package: com.bandarhl.bhtwitter
-Architecture: iphoneos-arm64
 Version: 4.4
 Section: Tweaks
 Maintainer: Bandar Alruwaili
