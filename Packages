@@ -7061,6 +7061,24 @@ Description: Messed, Messenger with No Ads and No seen.
 Name: Messed
 Author: 34306
 
+Package: com.nathan.miniisland
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64e/MiniIsland.1.0.3.arm64e.deb
+Size: 5644
+MD5sum: 41806c19f81c3319294c37d0c6c1befd
+SHA1: 66afa0f9c7a6a5e3e79413e9b257b5282c0d80f1
+SHA256: 4f6e152021a194cb2c6ef2c8280eb0da6b002a3e152c6e64ba6f5627dbf67055
+SHA512: fcca74b956373b90adb3ef65b3a937abf9734ef7e0347477f496f2a9825acc6edfd54a1cf465174bce6ad7481c0f4dfa70f3eb27817b6f846cd459dd2aa30f35
+Description: A Tweak that makes the island look mini when playing music!
+Name: MiniIsland
+Author: Nathan Senter
+
 Package: net.tateu.moorebarx15
 Architecture: iphoneos-arm64e
 Version: 1.0.0~beta1.0.2
@@ -7991,6 +8009,24 @@ Author: zhaonan
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.raru/js.json
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 
+Package: com.nathan.respringcc
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Nathan
+Installed-Size: 176
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
+Filename: ./debs/arm64e/RespringCC.1.0.arm64e.deb
+Size: 6988
+MD5sum: f76c92b9848de4daee8e1de08eddc956
+SHA1: b39918516b1121fd671a50ea6ac24919c3b79290
+SHA256: d576a63564efa9eb7e761a1cad36a16026846e38f2619c5f4f4a1a9d978504bc
+SHA512: a37aca1e2643dd581458a68e18e40930a385a646dae1a935d289f24fc50c20cee5f69c465e40f975fffe68c7e1b6d3c76e7c7b1961c399be008d18e2a5af5a42
+Description: CC toggle to respring
+Name: RespringCC
+Author: Nathan
+
 Package: weeb.lillie.youtubedislikesreturn
 Architecture: iphoneos-arm64e
 Version: 1.13.1
@@ -8915,6 +8951,24 @@ SHA512: 608c0fccefb230fff00a045b0364dabd01bf839de06d648b2e307e265580c8566d15dc96
 Description: An awesome tweak for Instagram!
 Name: Theta
 Author: objc_msgSend
+
+Package: com.nathan.tiktokphotocomments
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64e/TikTokPhotoComments.0.0.1.arm64e.deb
+Size: 3224
+MD5sum: 0e833e634afd0daa2419580b2d6c7501
+SHA1: 0bab6401b3d52f7ada5086b93092d72596aee018
+SHA256: 38e58ed296c4627b00d44be3607cecf8222197e5ddd1670a9960f15c3bc8cb00
+SHA512: ef65eb5b041d7b3934a26a08f27dfe073551d7d7dbce83010d89a2d526e89f7e4d7f16be99bf244ffe485c6fcbfd97d82f2f9e60bf751740e37fd4ba27dc4af0
+Description: Tweak to enable the Photos in comments function on TikTok if you don't yet have it! (Also enables the stickers in comments but doesn't work if you're not in the region you're supposed to be in to have it)
+Name: TikTokPhotoComments
+Author: Nathan Senter
 
 Package: com.foxfort.translomatic
 Architecture: iphoneos-arm64e
@@ -10150,6 +10204,24 @@ Description: Simple to implement, simple to use colour picker library. Built by 
 Tag: role::developer
 Name: libsparkcolourpicker
 Author: Spark
+
+Package: com.nathan.ngrokios
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Priority: optional
+Section: Networking
+Maintainer: Nathan
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>> 14)
+Filename: ./debs/arm64e/ngrok.1.0.0.arm64e.deb
+Size: 10508504
+MD5sum: 28e3e3352848e4fc81f2f30c468ec563
+SHA1: b153fcbf09d9d52122b26e960cdfb8e85ba4f362
+SHA256: b9e7a53e81118b581abe455f6a94bd2b0c9d9ca04f56ad20fa95b2f9765dcf90
+SHA512: bd66b36f5e5d56e7ac5708508204a096fac392c1ae59ad4922d758735f06670d62a8d20923e6915857b9ff38bfc2bebc88b0d7771fb79ceff7568dc4bcdc6ad0
+Description: ngrok for iOS
+Name: ngrok
+Author: Nathan
 
 Package: com.tools4cydia.packages4
 Architecture: iphoneos-arm64e
