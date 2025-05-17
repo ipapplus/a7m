@@ -48,7 +48,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "4.4.1"
+          "text": "4.4"
         },
         {
           "class": "DepictionTableTextView",
@@ -110,7 +110,7 @@
           "views": [
             {
               "class": "DepictionLabelView",
-              "text": "4.4.1",
+              "text": "4.4",
               "fontWeight": "bold",
               "fontSize": 16
             },
